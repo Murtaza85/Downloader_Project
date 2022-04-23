@@ -1,1596 +1,1596 @@
-{'text': "in this python tutorial you're going to", 'start': 2.159, 'duration': 3.2}
-{'text': 'learn everything you need to know to', 'start': 3.84, 'duration': 3.519}
-{'text': 'start programming in python if you want', 'start': 5.359, 'duration': 3.601}
-{'text': 'to learn python programming for data', 'start': 7.359, 'duration': 3.28}
-{'text': 'science machine learning or web', 'start': 8.96, 'duration': 3.92}
-{'text': 'development this python tutorial is the', 'start': 10.639, 'duration': 4.08}
-{'text': "perfect place to learn python you don't", 'start': 12.88, 'duration': 3.84}
-{'text': 'need any prior knowledge in python or', 'start': 14.719, 'duration': 3.361}
-{'text': "programming in general i'm going to", 'start': 16.72, 'duration': 3.2}
-{'text': "teach you everything from scratch i'm", 'start': 18.08, 'duration': 3.84}
-{'text': "mosh hamadani and i've taught millions", 'start': 19.92, 'duration': 3.279}
-{'text': 'of people how to code through this', 'start': 21.92, 'duration': 3.199}
-{'text': "channel if you're new here make sure to", 'start': 23.199, 'duration': 3.84}
-{'text': 'subscribe as i upload new videos every', 'start': 25.119, 'duration': 4.961}
-{'text': "week now let's jump in and get started", 'start': 27.039, 'duration': 4.4}
-{'text': 'all right before we get started let me', 'start': 30.08, 'duration': 2.72}
-{'text': 'give you some ideas about what you can', 'start': 31.439, 'duration': 3.201}
-{'text': "do with python that's a very common", 'start': 32.8, 'duration': 4.08}
-{'text': 'question python is a multi-purpose', 'start': 34.64, 'duration': 3.84}
-{'text': 'programming language so you can use it', 'start': 36.88, 'duration': 3.76}
-{'text': 'for a variety of different tasks you can', 'start': 38.48, 'duration': 4.239}
-{'text': 'use python for machine learning and ai', 'start': 40.64, 'duration': 3.52}
-{'text': 'in fact python is the number one', 'start': 42.719, 'duration': 3.041}
-{'text': 'language for machine learning and data', 'start': 44.16, 'duration': 3.52}
-{'text': 'science projects python is also very', 'start': 45.76, 'duration': 4.56}
-{'text': 'popular in web development using python', 'start': 47.68, 'duration': 4.24}
-{'text': 'and a framework called django you can', 'start': 50.32, 'duration': 3.68}
-{'text': 'build amazing websites here are five', 'start': 51.92, 'duration': 4.479}
-{'text': 'websites powered with python and django', 'start': 54.0, 'duration': 6.079}
-{'text': 'youtube instagram spotify dropbox and', 'start': 56.399, 'duration': 5.761}
-{'text': 'pinterest you can also use python in', 'start': 60.079, 'duration': 4.08}
-{'text': 'automation with python you can save your', 'start': 62.16, 'duration': 4.4}
-{'text': 'time and increase your productivity by', 'start': 64.159, 'duration': 5.201}
-{'text': 'automating repetitive tasks so why are', 'start': 66.56, 'duration': 4.16}
-{'text': 'you learning python are you learning it', 'start': 69.36, 'duration': 3.439}
-{'text': 'for automation for data science or web', 'start': 70.72, 'duration': 3.84}
-{'text': 'development let me know in the comment', 'start': 72.799, 'duration': 4.401}
-{'text': 'section below', 'start': 74.56, 'duration': 2.64}
-{'text': 'all right the first thing i want you to', 'start': 79.759, 'duration': 4.081}
-{'text': 'do is to head over to python.org to', 'start': 80.96, 'duration': 5.36}
-{'text': 'download the latest version of python so', 'start': 83.84, 'duration': 4.56}
-{'text': 'you go to downloads and select the', 'start': 86.32, 'duration': 5.36}
-{'text': 'latest version of python', 'start': 88.4, 'duration': 3.28}
-{'text': 'here in your downloads folder you should', 'start': 93.119, 'duration': 4.721}
-{'text': 'see this package simply double click it', 'start': 94.72, 'duration': 4.24}
-{'text': "you're going to see this python", 'start': 97.84, 'duration': 3.68}
-{'text': "installer if you're on windows you will", 'start': 98.96, 'duration': 5.199}
-{'text': 'see this checkbox over here add python', 'start': 101.52, 'duration': 4.959}
-{'text': "to path make sure to check it it's", 'start': 104.159, 'duration': 4.161}
-{'text': "really important otherwise you're not", 'start': 106.479, 'duration': 4.481}
-{'text': 'going to be able to follow this tutorial', 'start': 108.32, 'duration': 4.56}
-{'text': 'simply click on continue', 'start': 110.96, 'duration': 2.799}
-{'text': 'again', 'start': 112.88, 'duration': 2.239}
-{'text': 'one more time', 'start': 113.759, 'duration': 3.36}
-{'text': 'i agree with the terms', 'start': 115.119, 'duration': 5.121}
-{'text': 'and install the latest version of python', 'start': 117.119, 'duration': 4.881}
-{'text': 'now here you need to enter the username', 'start': 120.24, 'duration': 3.6}
-{'text': 'password of your computer', 'start': 122.0, 'duration': 2.88}
-{'text': 'so', 'start': 123.84, 'duration': 4.919}
-{'text': "let's do that real quick", 'start': 124.88, 'duration': 3.879}
-{'text': 'next you need to install a code editor', 'start': 128.879, 'duration': 4.161}
-{'text': 'we use a code editor to write our code', 'start': 131.2, 'duration': 4.08}
-{'text': 'and execute it the most popular code', 'start': 133.04, 'duration': 4.96}
-{'text': 'editor for python is pycharm you can get', 'start': 135.28, 'duration': 4.8}
-{'text': 'it from jetbrains.com', 'start': 138.0, 'duration': 3.2}
-{'text': 'pycharm', 'start': 140.08, 'duration': 3.2}
-{'text': 'so on this page', 'start': 141.2, 'duration': 4.72}
-{'text': 'click on download', 'start': 143.28, 'duration': 4.0}
-{'text': 'you should see two different editions', 'start': 145.92, 'duration': 3.36}
-{'text': 'one is the professional edition which is', 'start': 147.28, 'duration': 4.0}
-{'text': 'commercial and we also have this', 'start': 149.28, 'duration': 4.0}
-{'text': 'community edition which is free and open', 'start': 151.28, 'duration': 3.84}
-{'text': "source so we're going to download the", 'start': 153.28, 'duration': 4.56}
-{'text': 'community edition', 'start': 155.12, 'duration': 2.72}
-{'text': 'now in your downloads folder you should', 'start': 159.68, 'duration': 5.68}
-{'text': "have this package let's double click it", 'start': 161.36, 'duration': 4.0}
-{'text': "if you're on windows you're going to see", 'start': 165.44, 'duration': 3.76}
-{'text': 'an installation wizard so simply click', 'start': 167.12, 'duration': 4.0}
-{'text': 'on the next button until you install', 'start': 169.2, 'duration': 4.319}
-{'text': "pycharm if you're on a mac you need to", 'start': 171.12, 'duration': 4.88}
-{'text': 'drag this pycharm and drop it onto the', 'start': 173.519, 'duration': 5.44}
-{'text': 'applications folder', 'start': 176.0, 'duration': 2.959}
-{'text': 'now', 'start': 180.159, 'duration': 2.72}
-{'text': "let's open it", 'start': 181.04, 'duration': 3.68}
-{'text': 'the first time you open pycharm you have', 'start': 182.879, 'duration': 3.761}
-{'text': "to configure a few settings we don't", 'start': 184.72, 'duration': 5.04}
-{'text': 'want to spend time on this so over here', 'start': 186.64, 'duration': 4.72}
-{'text': "we're going to click on skip remaining", 'start': 189.76, 'duration': 4.399}
-{'text': 'and set defaults', 'start': 191.36, 'duration': 5.04}
-{'text': "now let's create a new project", 'start': 194.159, 'duration': 4.561}
-{'text': 'over here we can specify the location', 'start': 196.4, 'duration': 5.6}
-{'text': 'and the name of our python project so', 'start': 198.72, 'duration': 6.32}
-{'text': "let's append hello world to this path", 'start': 202.0, 'duration': 4.959}
-{'text': 'this is where our python project is', 'start': 205.04, 'duration': 4.32}
-{'text': "going to be saved so let's click on", 'start': 206.959, 'duration': 5.401}
-{'text': 'create', 'start': 209.36, 'duration': 3.0}
-{'text': 'in this window you can see the content', 'start': 212.4, 'duration': 4.08}
-{'text': "of our project so here's our hello world", 'start': 214.0, 'duration': 4.4}
-{'text': 'project currently we have only one', 'start': 216.48, 'duration': 4.319}
-{'text': 'folder inside this project that is vn', 'start': 218.4, 'duration': 4.479}
-{'text': 'which is short for virtual environment', 'start': 220.799, 'duration': 3.601}
-{'text': "we'll talk about virtual environments in", 'start': 222.879, 'duration': 3.521}
-{'text': "the future so currently we don't have", 'start': 224.4, 'duration': 4.72}
-{'text': 'any python files inside this project a', 'start': 226.4, 'duration': 5.36}
-{'text': 'real application can consist of tens or', 'start': 229.12, 'duration': 4.319}
-{'text': 'hundreds or even thousands of python', 'start': 231.76, 'duration': 4.08}
-{'text': "files so let's right click on the", 'start': 233.439, 'duration': 4.16}
-{'text': 'project name', 'start': 235.84, 'duration': 4.72}
-{'text': "and go to new python file we're going to", 'start': 237.599, 'duration': 6.321}
-{'text': 'call this file up', 'start': 240.56, 'duration': 3.36}
-{'text': 'now we can collapse this project window', 'start': 244.0, 'duration': 4.0}
-{'text': 'by clicking on this icon so now we have', 'start': 245.68, 'duration': 4.72}
-{'text': "more space let's write our first python", 'start': 248.0, 'duration': 4.84}
-{'text': "code we're going to write print all in", 'start': 250.4, 'duration': 5.36}
-{'text': 'lowercase then add parentheses', 'start': 252.84, 'duration': 5.959}
-{'text': 'then add quotes either single quotes or', 'start': 255.76, 'duration': 4.4}
-{'text': 'double quotes', 'start': 258.799, 'duration': 2.641}
-{'text': "and inside this code we're going to", 'start': 260.16, 'duration': 3.36}
-{'text': 'write hello world', 'start': 261.44, 'duration': 4.479}
-{'text': 'so this is what we call a string a', 'start': 263.52, 'duration': 4.8}
-{'text': 'string means a string or sequence of', 'start': 265.919, 'duration': 4.72}
-{'text': 'characters in simple words that means', 'start': 268.32, 'duration': 5.28}
-{'text': 'textual data so in python and in many', 'start': 270.639, 'duration': 4.881}
-{'text': 'other programming languages whenever', 'start': 273.6, 'duration': 3.92}
-{'text': "we're dealing with textual data we", 'start': 275.52, 'duration': 4.0}
-{'text': 'should always surround our text with', 'start': 277.52, 'duration': 3.2}
-{'text': 'quotes', 'start': 279.52, 'duration': 3.36}
-{'text': 'in python we can use single or double', 'start': 280.72, 'duration': 3.199}
-{'text': 'quotes', 'start': 282.88, 'duration': 2.8}
-{'text': 'now this print you see here is a', 'start': 283.919, 'duration': 4.161}
-{'text': 'function built into python and we can', 'start': 285.68, 'duration': 4.079}
-{'text': 'use it to print a message on our', 'start': 288.08, 'duration': 4.0}
-{'text': 'application window so let me show you', 'start': 289.759, 'duration': 4.401}
-{'text': 'how to run this code', 'start': 292.08, 'duration': 4.64}
-{'text': 'on the top we go to the run menu and', 'start': 294.16, 'duration': 4.16}
-{'text': 'then select run', 'start': 296.72, 'duration': 3.52}
-{'text': 'note that there is a shortcut associated', 'start': 298.32, 'duration': 4.159}
-{'text': 'with this command i always use shortcuts', 'start': 300.24, 'duration': 5.519}
-{'text': 'because they increase my productivity so', 'start': 302.479, 'duration': 4.641}
-{'text': "let's click on this", 'start': 305.759, 'duration': 3.361}
-{'text': 'now select app', 'start': 307.12, 'duration': 3.359}
-{'text': 'and over here', 'start': 309.12, 'duration': 3.04}
-{'text': 'you can see this little window this is', 'start': 310.479, 'duration': 4.0}
-{'text': 'what we call the terminal window and it', 'start': 312.16, 'duration': 4.56}
-{'text': 'shows the output of our program', 'start': 314.479, 'duration': 3.841}
-{'text': "so here's the hello world message", 'start': 316.72, 'duration': 3.68}
-{'text': 'printed in the terminal window now as', 'start': 318.32, 'duration': 3.92}
-{'text': 'you learn more python you will learn how', 'start': 320.4, 'duration': 3.359}
-{'text': 'to build applications that have a', 'start': 322.24, 'duration': 3.44}
-{'text': "graphical user interface that's an", 'start': 323.759, 'duration': 3.761}
-{'text': "advanced topic so for now let's not", 'start': 325.68, 'duration': 4.48}
-{'text': 'worry about it', 'start': 327.52, 'duration': 2.64}
-{'text': "alright now let's talk about variables", 'start': 334.639, 'duration': 4.321}
-{'text': 'we use variables to temporarily store', 'start': 336.639, 'duration': 4.801}
-{'text': "data in a computer's memory for example", 'start': 338.96, 'duration': 4.88}
-{'text': 'we can store the price of a product or', 'start': 341.44, 'duration': 4.8}
-{'text': "someone's name their email their age and", 'start': 343.84, 'duration': 4.72}
-{'text': 'so on let me show you so', 'start': 346.24, 'duration': 4.64}
-{'text': 'to declare a variable we start by typing', 'start': 348.56, 'duration': 5.44}
-{'text': "a name for that variable let's say age", 'start': 350.88, 'duration': 5.439}
-{'text': 'then we add an equal sign', 'start': 354.0, 'duration': 5.199}
-{'text': "and then we type a value let's say 20.", 'start': 356.319, 'duration': 5.041}
-{'text': "so with this we're storing the number 20", 'start': 359.199, 'duration': 4.321}
-{'text': "somewhere in our computer's memory and", 'start': 361.36, 'duration': 4.48}
-{'text': "we're attaching this age as a label for", 'start': 363.52, 'duration': 4.72}
-{'text': 'that memory location so now we can read', 'start': 365.84, 'duration': 4.639}
-{'text': 'the value at this memory location and', 'start': 368.24, 'duration': 4.88}
-{'text': 'print it on the terminal so instead of', 'start': 370.479, 'duration': 4.56}
-{'text': 'printing hello world we want to print', 'start': 373.12, 'duration': 4.4}
-{'text': 'the value of the age variable', 'start': 375.039, 'duration': 4.641}
-{'text': "so i'm going to delete what we have", 'start': 377.52, 'duration': 4.32}
-{'text': 'inside parenthesis', 'start': 379.68, 'duration': 5.359}
-{'text': "and type age note that i'm not adding", 'start': 381.84, 'duration': 5.44}
-{'text': 'quotes because if i run this program', 'start': 385.039, 'duration': 4.72}
-{'text': "we'll see the text h on the terminal we", 'start': 387.28, 'duration': 4.56}
-{'text': "don't want that we want the value of the", 'start': 389.759, 'duration': 6.0}
-{'text': "age variable so let's remove the quote", 'start': 391.84, 'duration': 4.799}
-{'text': 'and', 'start': 395.759, 'duration': 2.961}
-{'text': 'print the value of the age variable', 'start': 396.639, 'duration': 4.4}
-{'text': 'now here on the toolbar you can click on', 'start': 398.72, 'duration': 4.72}
-{'text': 'this play icon to run your program or', 'start': 401.039, 'duration': 3.921}
-{'text': 'you can use the shortcut that i showed', 'start': 403.44, 'duration': 4.319}
-{'text': 'you in the last video so the shortcut is', 'start': 404.96, 'duration': 6.32}
-{'text': "over here on a mac that's ctrl shift and", 'start': 407.759, 'duration': 4.401}
-{'text': 'r', 'start': 411.28, 'duration': 2.56}
-{'text': 'so', 'start': 412.16, 'duration': 2.8}
-{'text': 'there you go', 'start': 413.84, 'duration': 2.96}
-{'text': 'now you can see the value of the age', 'start': 414.96, 'duration': 3.2}
-{'text': 'variable', 'start': 416.8, 'duration': 3.119}
-{'text': 'now we can also change the value of a', 'start': 418.16, 'duration': 4.64}
-{'text': 'variable for example on line 2', 'start': 419.919, 'duration': 5.441}
-{'text': 'we can set 8 to 30.', 'start': 422.8, 'duration': 4.399}
-{'text': 'now when we run our program', 'start': 425.36, 'duration': 4.72}
-{'text': 'we see 30. so as you can see our program', 'start': 427.199, 'duration': 5.681}
-{'text': 'gets executed from top to bottom', 'start': 430.08, 'duration': 4.88}
-{'text': 'so this is how we can declare and use a', 'start': 432.88, 'duration': 4.0}
-{'text': "variable now let's look at a few more", 'start': 434.96, 'duration': 2.959}
-{'text': 'examples', 'start': 436.88, 'duration': 2.64}
-{'text': "so i'm going to declare", 'start': 437.919, 'duration': 3.68}
-{'text': 'another variable called price', 'start': 439.52, 'duration': 5.44}
-{'text': 'and set it to 19.95', 'start': 441.599, 'duration': 5.201}
-{'text': 'so in python we can use numbers with a', 'start': 444.96, 'duration': 3.679}
-{'text': 'decimal point or', 'start': 446.8, 'duration': 4.399}
-{'text': 'whole numbers we can also declare a', 'start': 448.639, 'duration': 6.481}
-{'text': 'variable and assign it a string value so', 'start': 451.199, 'duration': 7.361}
-{'text': "let's say first underline name so if you", 'start': 455.12, 'duration': 5.359}
-{'text': 'want to use multiple words in the name', 'start': 458.56, 'duration': 4.079}
-{'text': 'of a variable we should separate them', 'start': 460.479, 'duration': 4.72}
-{'text': 'using an underscore this makes our code', 'start': 462.639, 'duration': 5.12}
-{'text': 'more readable see what would happen if i', 'start': 465.199, 'duration': 4.641}
-{'text': "didn't use this underline", 'start': 467.759, 'duration': 5.361}
-{'text': 'this is not easily readable so we always', 'start': 469.84, 'duration': 6.24}
-{'text': 'separate multiple words by an underscore', 'start': 473.12, 'duration': 5.28}
-{'text': 'now we set this to a string so we can', 'start': 476.08, 'duration': 4.08}
-{'text': 'use single quotes or', 'start': 478.4, 'duration': 4.32}
-{'text': "double quotes let's say march", 'start': 480.16, 'duration': 4.4}
-{'text': 'we also have a special type of value', 'start': 482.72, 'duration': 4.4}
-{'text': 'called a boolean value which can be true', 'start': 484.56, 'duration': 5.039}
-{'text': 'or false that is like yes or no in', 'start': 487.12, 'duration': 5.44}
-{'text': "english let me show you so i'm going to", 'start': 489.599, 'duration': 5.921}
-{'text': 'declare another variable called is', 'start': 492.56, 'duration': 5.919}
-{'text': 'online and set it to true', 'start': 495.52, 'duration': 5.519}
-{'text': 'we could also set it to false what we', 'start': 498.479, 'duration': 5.361}
-{'text': 'have here is called a boolean value', 'start': 501.039, 'duration': 4.961}
-{'text': 'now note that python is a case sensitive', 'start': 503.84, 'duration': 4.479}
-{'text': "language so it's sensitive to lowercase", 'start': 506.0, 'duration': 5.28}
-{'text': 'and uppercase letters in this case if i', 'start': 508.319, 'duration': 5.681}
-{'text': 'use a lowercase f', 'start': 511.28, 'duration': 4.48}
-{'text': 'we can see an error over here because', 'start': 514.0, 'duration': 4.08}
-{'text': 'this is not recognized in python', 'start': 515.76, 'duration': 5.199}
-{'text': 'so false with a capital f is a special', 'start': 518.08, 'duration': 5.28}
-{'text': 'keyword in python that represents the', 'start': 520.959, 'duration': 4.241}
-{'text': 'boolean false value', 'start': 523.36, 'duration': 3.68}
-{'text': 'so this is how we can declare and use', 'start': 525.2, 'duration': 3.6}
-{'text': 'variables in python', 'start': 527.04, 'duration': 3.28}
-{'text': "all right now here's a little exercise", 'start': 528.8, 'duration': 2.32}
-{'text': 'for you', 'start': 530.32, 'duration': 2.56}
-{'text': 'imagine we want to write a program for a', 'start': 531.12, 'duration': 3.52}
-{'text': "hospital so we're going to check in a", 'start': 532.88, 'duration': 4.639}
-{'text': "patient named john smith he's 20 years", 'start': 534.64, 'duration': 5.199}
-{'text': 'old and is a new patient i want you to', 'start': 537.519, 'duration': 4.561}
-{'text': 'declare a few variables to store these', 'start': 539.839, 'duration': 4.56}
-{'text': 'values use the comment box below to', 'start': 542.08, 'duration': 6.28}
-{'text': 'share your code with others', 'start': 544.399, 'duration': 3.961}
-{'text': "in this tutorial i'm going to show you", 'start': 552.48, 'duration': 3.919}
-{'text': 'how to receive input from the user so in', 'start': 553.839, 'duration': 4.881}
-{'text': 'python we have another built-in function', 'start': 556.399, 'duration': 5.201}
-{'text': 'called input we use this to read a value', 'start': 558.72, 'duration': 5.04}
-{'text': 'from the terminal window let me show you', 'start': 561.6, 'duration': 4.48}
-{'text': 'so we add parenthesis', 'start': 563.76, 'duration': 4.16}
-{'text': 'then we type in a string here we can', 'start': 566.08, 'duration': 5.6}
-{'text': 'type a message like what is your name we', 'start': 567.92, 'duration': 6.24}
-{'text': 'had a question mark followed by a space', 'start': 571.68, 'duration': 4.08}
-{'text': 'you will see why we need this space in a', 'start': 574.16, 'duration': 5.04}
-{'text': "second so let's run this program", 'start': 575.76, 'duration': 5.6}
-{'text': 'we get this message now we have to enter', 'start': 579.2, 'duration': 4.96}
-{'text': 'a value so we click over here', 'start': 581.36, 'duration': 4.24}
-{'text': 'now you can see that the carrot is', 'start': 584.16, 'duration': 3.52}
-{'text': 'separated from the question mark this is', 'start': 585.6, 'duration': 4.16}
-{'text': 'because of the white space that we added', 'start': 587.68, 'duration': 3.2}
-{'text': 'over here', 'start': 589.76, 'duration': 3.44}
-{'text': "so now we have to type a value let's say", 'start': 590.88, 'duration': 5.68}
-{'text': 'john when we press enter', 'start': 593.2, 'duration': 5.6}
-{'text': 'this function will return the value that', 'start': 596.56, 'duration': 4.56}
-{'text': 'we entered in the terminal window so we', 'start': 598.8, 'duration': 4.08}
-{'text': 'can get that value and store it in a', 'start': 601.12, 'duration': 4.399}
-{'text': "variable so let's declare a variable", 'start': 602.88, 'duration': 5.519}
-{'text': 'called name and set it to the return', 'start': 605.519, 'duration': 5.121}
-{'text': 'value of the input function', 'start': 608.399, 'duration': 4.081}
-{'text': 'now we can print a greeting message for', 'start': 610.64, 'duration': 5.92}
-{'text': 'this user so we use the print function', 'start': 612.48, 'duration': 6.0}
-{'text': 'we say hello', 'start': 616.56, 'duration': 3.36}
-{'text': 'we had a space', 'start': 618.48, 'duration': 3.919}
-{'text': 'now after the string we want to add the', 'start': 619.92, 'duration': 5.2}
-{'text': 'value of the name variable so we use a', 'start': 622.399, 'duration': 3.841}
-{'text': 'plus sign', 'start': 625.12, 'duration': 2.64}
-{'text': 'and then type name', 'start': 626.24, 'duration': 3.839}
-{'text': 'what we are doing here is called string', 'start': 627.76, 'duration': 4.639}
-{'text': "concatenation so we're combining this", 'start': 630.079, 'duration': 5.2}
-{'text': 'string with another string', 'start': 632.399, 'duration': 4.321}
-{'text': "now let's run our program and see what", 'start': 635.279, 'duration': 3.761}
-{'text': 'happens so what is your name', 'start': 636.72, 'duration': 3.359}
-{'text': 'mosh', 'start': 639.04, 'duration': 2.0}
-{'text': 'now', 'start': 640.079, 'duration': 2.961}
-{'text': 'we get this message hello mosh', 'start': 641.04, 'duration': 3.68}
-{'text': 'so this is how we can use the input', 'start': 643.04, 'duration': 4.799}
-{'text': 'function in python', 'start': 644.72, 'duration': 3.119}
-{'text': "you'll learn about the three types of", 'start': 652.079, 'duration': 4.32}
-{'text': 'data in python we have numbers', 'start': 653.6, 'duration': 5.919}
-{'text': 'strings and booleans now there are times', 'start': 656.399, 'duration': 4.801}
-{'text': 'you want to convert the value of a', 'start': 659.519, 'duration': 4.0}
-{'text': 'variable from one type to another let me', 'start': 661.2, 'duration': 4.72}
-{'text': "show you so we're going to use our input", 'start': 663.519, 'duration': 3.361}
-{'text': 'function', 'start': 665.92, 'duration': 5.039}
-{'text': "to read the user's birth year so enter", 'start': 666.88, 'duration': 6.72}
-{'text': 'your birth here', 'start': 670.959, 'duration': 4.081}
-{'text': 'now this input function is going to', 'start': 673.6, 'duration': 3.919}
-{'text': 'return a value so we can store it in a', 'start': 675.04, 'duration': 4.0}
-{'text': 'variable called', 'start': 677.519, 'duration': 4.241}
-{'text': 'birth underline year', 'start': 679.04, 'duration': 3.76}
-{'text': 'okay', 'start': 681.76, 'duration': 2.72}
-{'text': "now let's write code to calculate the", 'start': 682.8, 'duration': 4.0}
-{'text': 'age of this user so we write an', 'start': 684.48, 'duration': 4.24}
-{'text': 'expression like this currently we are in', 'start': 686.8, 'duration': 6.0}
-{'text': 'the year 2020 so 2020 minus', 'start': 688.72, 'duration': 5.28}
-{'text': 'birth year', 'start': 692.8, 'duration': 2.88}
-{'text': 'this expression or piece of code is', 'start': 694.0, 'duration': 3.839}
-{'text': 'going to produce a value so once again', 'start': 695.68, 'duration': 4.32}
-{'text': 'we can store that value in a variable', 'start': 697.839, 'duration': 5.281}
-{'text': "let's call that variable age", 'start': 700.0, 'duration': 4.88}
-{'text': "now let's print age", 'start': 703.12, 'duration': 3.44}
-{'text': 'on the terminal', 'start': 704.88, 'duration': 2.88}
-{'text': "let's run our program and see what", 'start': 706.56, 'duration': 2.88}
-{'text': 'happens', 'start': 707.76, 'duration': 2.4}
-{'text': 'so', 'start': 709.44, 'duration': 3.28}
-{'text': 'my birth year is 1982.', 'start': 710.16, 'duration': 5.44}
-{'text': 'enter oops our program crashed so', 'start': 712.72, 'duration': 4.799}
-{'text': 'whenever you see this red message that', 'start': 715.6, 'duration': 4.0}
-{'text': 'indicates an error so this error', 'start': 717.519, 'duration': 4.32}
-{'text': 'occurred in this file', 'start': 719.6, 'duration': 5.76}
-{'text': 'that is our app.pi on line two', 'start': 721.839, 'duration': 5.361}
-{'text': 'right below that you can see the piece', 'start': 725.36, 'duration': 4.4}
-{'text': 'of code that generated this error', 'start': 727.2, 'duration': 5.12}
-{'text': 'so that is this expression 2020 minus', 'start': 729.76, 'duration': 5.04}
-{'text': 'birth year now below that you can see', 'start': 732.32, 'duration': 4.72}
-{'text': 'the type of error so here we have', 'start': 734.8, 'duration': 6.64}
-{'text': 'unsupported types for subtraction', 'start': 737.04, 'duration': 5.76}
-{'text': 'we have int', 'start': 741.44, 'duration': 4.72}
-{'text': 'and stir what are these well this end is', 'start': 742.8, 'duration': 5.76}
-{'text': 'short for integer and that represents a', 'start': 746.16, 'duration': 5.679}
-{'text': 'whole number in programming so', 'start': 748.56, 'duration': 6.079}
-{'text': '2020 is an example of an integer', 'start': 751.839, 'duration': 5.761}
-{'text': 'now birth year is an example of a string', 'start': 754.639, 'duration': 5.121}
-{'text': 'because whenever we call the input', 'start': 757.6, 'duration': 4.32}
-{'text': 'function this function would return a', 'start': 759.76, 'duration': 4.56}
-{'text': 'value as a string even if we enter a', 'start': 761.92, 'duration': 4.96}
-{'text': 'number in other words when i entered', 'start': 764.32, 'duration': 5.68}
-{'text': '1982 this input function returned a', 'start': 766.88, 'duration': 6.399}
-{'text': 'string with these characters 1982 so', 'start': 770.0, 'duration': 6.16}
-{'text': 'this string is different from the number', 'start': 773.279, 'duration': 5.921}
-{'text': "1982 they're completely different types", 'start': 776.16, 'duration': 4.4}
-{'text': 'so in this case', 'start': 779.2, 'duration': 3.439}
-{'text': 'let me delete these lines', 'start': 780.56, 'duration': 4.079}
-{'text': 'the reason we got this error is that we', 'start': 782.639, 'duration': 5.281}
-{'text': 'try to subtract a string from an integer', 'start': 784.639, 'duration': 5.841}
-{'text': 'so our code looks like this', 'start': 787.92, 'duration': 4.159}
-{'text': '1982', 'start': 790.48, 'duration': 3.76}
-{'text': "now python doesn't know how to subtract", 'start': 792.079, 'duration': 4.161}
-{'text': 'a string from an integer', 'start': 794.24, 'duration': 4.159}
-{'text': 'so to solve this problem we need to', 'start': 796.24, 'duration': 4.719}
-{'text': 'convert this string to an integer', 'start': 798.399, 'duration': 4.161}
-{'text': 'now in python we have a bunch of', 'start': 800.959, 'duration': 3.281}
-{'text': 'built-in functions for converting the', 'start': 802.56, 'duration': 4.0}
-{'text': 'types of our variables so', 'start': 804.24, 'duration': 4.8}
-{'text': 'we have this end function', 'start': 806.56, 'duration': 5.12}
-{'text': 'we can pass our burst here to it', 'start': 809.04, 'duration': 4.239}
-{'text': 'and this will return the new numeric', 'start': 811.68, 'duration': 3.92}
-{'text': 'representation of the birth year', 'start': 813.279, 'duration': 5.12}
-{'text': 'so to solve this problem', 'start': 815.6, 'duration': 4.32}
-{'text': 'we need to replace', 'start': 818.399, 'duration': 3.68}
-{'text': 'the string', 'start': 819.92, 'duration': 3.76}
-{'text': 'with the end function', 'start': 822.079, 'duration': 3.601}
-{'text': "so let's see what's going on here on the", 'start': 823.68, 'duration': 4.24}
-{'text': 'first line we call the input function', 'start': 825.68, 'duration': 4.0}
-{'text': 'this returns a string', 'start': 827.92, 'duration': 4.4}
-{'text': 'on the second line we pass the string to', 'start': 829.68, 'duration': 4.88}
-{'text': 'our end function the in function will', 'start': 832.32, 'duration': 4.56}
-{'text': 'return the numeric representation of the', 'start': 834.56, 'duration': 3.44}
-{'text': 'burst year', 'start': 836.88, 'duration': 2.16}
-{'text': 'then', 'start': 838.0, 'duration': 4.0}
-{'text': 'we subtract it from 2020 we get the age', 'start': 839.04, 'duration': 5.039}
-{'text': 'and store it in the age variable now', 'start': 842.0, 'duration': 4.48}
-{'text': "let's run our program", 'start': 844.079, 'duration': 3.2}
-{'text': 'so', 'start': 846.48, 'duration': 2.32}
-{'text': '1982', 'start': 847.279, 'duration': 4.161}
-{'text': "and there you go i'm 38 years old", 'start': 848.8, 'duration': 5.52}
-{'text': 'so this is how the in function works now', 'start': 851.44, 'duration': 5.199}
-{'text': 'we also have another built-in function', 'start': 854.32, 'duration': 4.8}
-{'text': 'called float that is for converting a', 'start': 856.639, 'duration': 4.88}
-{'text': 'value to a floating point number a', 'start': 859.12, 'duration': 4.56}
-{'text': 'floating point number in python and', 'start': 861.519, 'duration': 4.32}
-{'text': 'other programming languages is a number', 'start': 863.68, 'duration': 4.399}
-{'text': 'with a decimal point so', 'start': 865.839, 'duration': 6.081}
-{'text': '10 is an integer and 10.1 is a float', 'start': 868.079, 'duration': 7.361}
-{'text': 'so we have int we have float and we also', 'start': 871.92, 'duration': 6.32}
-{'text': 'have bool for converting a value to a', 'start': 875.44, 'duration': 3.839}
-{'text': 'boolean', 'start': 878.24, 'duration': 3.76}
-{'text': 'and finally we have stir for converting', 'start': 879.279, 'duration': 5.521}
-{'text': 'a value to a string so these are the', 'start': 882.0, 'duration': 4.8}
-{'text': 'built-in functions for converting the', 'start': 884.8, 'duration': 4.0}
-{'text': 'type of our variables', 'start': 886.8, 'duration': 3.839}
-{'text': "now here's a little exercise for you i", 'start': 888.8, 'duration': 3.92}
-{'text': 'want you to write a basic calculator', 'start': 890.639, 'duration': 4.161}
-{'text': 'program so here we have to enter two', 'start': 892.72, 'duration': 4.479}
-{'text': 'numbers we can type a whole number or a', 'start': 894.8, 'duration': 5.279}
-{'text': 'number with a decimal point', 'start': 897.199, 'duration': 4.88}
-{'text': 'and then our program will print the sum', 'start': 900.079, 'duration': 3.521}
-{'text': 'of these two numbers', 'start': 902.079, 'duration': 3.44}
-{'text': 'so pause the video spend two minutes on', 'start': 903.6, 'duration': 6.0}
-{'text': 'this exercise and then see my solution', 'start': 905.519, 'duration': 4.081}
-{'text': "all right first we're going to call our", 'start': 910.959, 'duration': 4.0}
-{'text': 'input function to read the first number', 'start': 912.399, 'duration': 4.321}
-{'text': 'we get the result and store it in a', 'start': 914.959, 'duration': 4.0}
-{'text': 'variable called first', 'start': 916.72, 'duration': 4.32}
-{'text': "now let's declare", 'start': 918.959, 'duration': 5.281}
-{'text': 'another variable called second and read', 'start': 921.04, 'duration': 5.359}
-{'text': 'the second number', 'start': 924.24, 'duration': 3.279}
-{'text': 'now', 'start': 926.399, 'duration': 2.721}
-{'text': 'we calculate the sum', 'start': 927.519, 'duration': 4.721}
-{'text': 'so that is first plus second', 'start': 929.12, 'duration': 5.12}
-{'text': "now let's see what happens when we print", 'start': 932.24, 'duration': 4.48}
-{'text': 'sum on the terminal', 'start': 934.24, 'duration': 5.2}
-{'text': 'so i enter 10 and 20', 'start': 936.72, 'duration': 5.52}
-{'text': 'but instead of 30 we get 10 20. this is', 'start': 939.44, 'duration': 5.44}
-{'text': "because we're combining or concatenating", 'start': 942.24, 'duration': 5.2}
-{'text': 'two strings so', 'start': 944.88, 'duration': 4.639}
-{'text': 'as i told you before the input function', 'start': 947.44, 'duration': 4.8}
-{'text': 'returns a string so', 'start': 949.519, 'duration': 5.521}
-{'text': 'this line will be equivalent to first', 'start': 952.24, 'duration': 5.68}
-{'text': "equals 10. we're dealing with a string", 'start': 955.04, 'duration': 4.479}
-{'text': 'not an integer', 'start': 957.92, 'duration': 2.96}
-{'text': 'similarly', 'start': 959.519, 'duration': 2.961}
-{'text': 'second is going to be', 'start': 960.88, 'duration': 4.56}
-{'text': '20 as a string so when we combine two', 'start': 962.48, 'duration': 6.799}
-{'text': 'strings 10 plus 20 will get', 'start': 965.44, 'duration': 6.48}
-{'text': "10 20 because we're dealing with textual", 'start': 969.279, 'duration': 6.721}
-{'text': 'data okay so to solve this problem', 'start': 971.92, 'duration': 6.08}
-{'text': 'we need to convert the values we read to', 'start': 976.0, 'duration': 4.88}
-{'text': 'their numeric representation so over', 'start': 978.0, 'duration': 4.88}
-{'text': 'here', 'start': 980.88, 'duration': 3.28}
-{'text': "we're going to pass", 'start': 982.88, 'duration': 4.0}
-{'text': 'first to our int function', 'start': 984.16, 'duration': 4.32}
-{'text': 'and here as well', 'start': 986.88, 'duration': 3.44}
-{'text': "now let's run our program", 'start': 988.48, 'duration': 5.919}
-{'text': 'so we enter 10 and 20 we get 30. what if', 'start': 990.32, 'duration': 7.68}
-{'text': 'we enter a floating point number so 10.1', 'start': 994.399, 'duration': 5.921}
-{'text': 'and 20.', 'start': 998.0, 'duration': 3.839}
-{'text': 'we got an error', 'start': 1000.32, 'duration': 4.16}
-{'text': 'so to solve this problem', 'start': 1001.839, 'duration': 4.961}
-{'text': 'we need to treat both these values as', 'start': 1004.48, 'duration': 4.799}
-{'text': 'floats so instead of the in function', 'start': 1006.8, 'duration': 5.92}
-{'text': "we're going to use the float function", 'start': 1009.279, 'duration': 6.081}
-{'text': "now let's run our program one more time", 'start': 1012.72, 'duration': 5.359}
-{'text': 'we enter a whole number and a floating', 'start': 1015.36, 'duration': 5.599}
-{'text': 'point number so the result is correct', 'start': 1018.079, 'duration': 7.441}
-{'text': "now let's add a label over here so sum", 'start': 1020.959, 'duration': 5.921}
-{'text': 'is', 'start': 1025.52, 'duration': 2.799}
-{'text': 'plus sum', 'start': 1026.88, 'duration': 3.039}
-{'text': "let's run our program", 'start': 1028.319, 'duration': 3.921}
-{'text': 'one more time 10 and 20.', 'start': 1029.919, 'duration': 4.561}
-{'text': 'once again we got an error the error is', 'start': 1032.24, 'duration': 5.12}
-{'text': 'saying that python can only concatenate', 'start': 1034.48, 'duration': 6.559}
-{'text': 'strings not floats to strings', 'start': 1037.36, 'duration': 6.559}
-{'text': "so on line four we have a string we're", 'start': 1041.039, 'duration': 5.441}
-{'text': 'concatenating this with a float because', 'start': 1043.919, 'duration': 4.64}
-{'text': 'the result of this expression is a', 'start': 1046.48, 'duration': 4.079}
-{'text': "floating point number we're adding two", 'start': 1048.559, 'duration': 4.881}
-{'text': 'floats so the result is a float as well', 'start': 1050.559, 'duration': 5.761}
-{'text': "so python doesn't know how to evaluate", 'start': 1053.44, 'duration': 5.04}
-{'text': 'code like this', 'start': 1056.32, 'duration': 4.64}
-{'text': "it doesn't know how to concatenate a", 'start': 1058.48, 'duration': 3.92}
-{'text': 'float', 'start': 1060.96, 'duration': 4.24}
-{'text': 'to a string to solve this problem', 'start': 1062.4, 'duration': 5.12}
-{'text': 'we need to convert sum to your string so', 'start': 1065.2, 'duration': 3.44}
-{'text': 'this is where', 'start': 1067.52, 'duration': 3.519}
-{'text': 'we use the stir function', 'start': 1068.64, 'duration': 5.52}
-{'text': "now let's run the program again so", 'start': 1071.039, 'duration': 7.041}
-{'text': "10 plus 20.1 and here's the result", 'start': 1074.16, 'duration': 5.36}
-{'text': 'and one last thing', 'start': 1078.08, 'duration': 3.68}
-{'text': "in this example i'm calling the float", 'start': 1079.52, 'duration': 3.76}
-{'text': 'function at the time we want to', 'start': 1081.76, 'duration': 3.6}
-{'text': 'calculate the sum of these two numbers', 'start': 1083.28, 'duration': 4.0}
-{'text': 'but this is not a requirement we can', 'start': 1085.36, 'duration': 3.76}
-{'text': 'call the float function', 'start': 1087.28, 'duration': 5.04}
-{'text': 'over here so this input function returns', 'start': 1089.12, 'duration': 5.84}
-{'text': 'a string we can pass that string to our', 'start': 1092.32, 'duration': 5.359}
-{'text': 'float function take a look so float', 'start': 1094.96, 'duration': 5.04}
-{'text': 'parenthesis like this', 'start': 1097.679, 'duration': 4.561}
-{'text': "so the value that we're passing to the", 'start': 1100.0, 'duration': 4.24}
-{'text': 'float function is the value that is', 'start': 1102.24, 'duration': 4.72}
-{'text': 'returned from the input function', 'start': 1104.24, 'duration': 4.96}
-{'text': 'similarly', 'start': 1106.96, 'duration': 5.12}
-{'text': 'we call the float function over here', 'start': 1109.2, 'duration': 4.24}
-{'text': 'now', 'start': 1112.08, 'duration': 3.68}
-{'text': 'we can change this expression to first', 'start': 1113.44, 'duration': 5.2}
-{'text': 'plus second that is another way to write', 'start': 1115.76, 'duration': 4.4}
-{'text': 'this piece of code', 'start': 1118.64, 'duration': 3.12}
-{'text': 'so type conversion is important in', 'start': 1120.16, 'duration': 3.92}
-{'text': 'python and other programming languages', 'start': 1121.76, 'duration': 3.84}
-{'text': 'there are times you need to convert the', 'start': 1124.08, 'duration': 5.44}
-{'text': 'type of variable to a different type', 'start': 1125.6, 'duration': 3.92}
-{'text': "in this tutorial i'm going to show you a", 'start': 1133.84, 'duration': 2.88}
-{'text': 'bunch of cool things you can do with', 'start': 1135.2, 'duration': 4.24}
-{'text': "strings in python so let's start by", 'start': 1136.72, 'duration': 5.04}
-{'text': 'declaring a variable called course', 'start': 1139.44, 'duration': 4.96}
-{'text': 'and set it to python for', 'start': 1141.76, 'duration': 4.24}
-{'text': 'beginners', 'start': 1144.4, 'duration': 3.36}
-{'text': 'now this string that we have over here', 'start': 1146.0, 'duration': 4.48}
-{'text': 'is technically an object an object in', 'start': 1147.76, 'duration': 4.48}
-{'text': 'python is like an object in the real', 'start': 1150.48, 'duration': 4.0}
-{'text': 'world as a metaphor think of the remote', 'start': 1152.24, 'duration': 4.559}
-{'text': 'control of your tv this remote control', 'start': 1154.48, 'duration': 4.0}
-{'text': 'is an object and it has a bunch of', 'start': 1156.799, 'duration': 3.76}
-{'text': 'capabilities it has a bunch of buttons', 'start': 1158.48, 'duration': 4.64}
-{'text': 'for turning your tv on turning it off', 'start': 1160.559, 'duration': 4.561}
-{'text': 'changing the volume and so on now in', 'start': 1163.12, 'duration': 3.919}
-{'text': 'this program this course variable is', 'start': 1165.12, 'duration': 4.4}
-{'text': 'storing a string object this string', 'start': 1167.039, 'duration': 4.801}
-{'text': 'object has a bunch of capabilities so if', 'start': 1169.52, 'duration': 3.36}
-{'text': 'we type', 'start': 1171.84, 'duration': 3.52}
-{'text': 'course dot you can see all the', 'start': 1172.88, 'duration': 4.48}
-{'text': 'capabilities available in a string', 'start': 1175.36, 'duration': 3.92}
-{'text': 'object these are basically functions', 'start': 1177.36, 'duration': 4.08}
-{'text': 'that you can call just like the print or', 'start': 1179.28, 'duration': 4.16}
-{'text': 'input functions the difference is that', 'start': 1181.44, 'duration': 4.16}
-{'text': 'the print and input functions are', 'start': 1183.44, 'duration': 4.0}
-{'text': "general purpose functions they don't", 'start': 1185.6, 'duration': 4.0}
-{'text': 'belong to a particular object but the', 'start': 1187.44, 'duration': 4.16}
-{'text': 'functions you see over here are specific', 'start': 1189.6, 'duration': 4.88}
-{'text': 'to strings now more accurately we refer', 'start': 1191.6, 'duration': 5.36}
-{'text': 'to these as methods so when a function', 'start': 1194.48, 'duration': 4.559}
-{'text': 'is part of an object we refer to that', 'start': 1196.96, 'duration': 3.92}
-{'text': 'function as a method', 'start': 1199.039, 'duration': 4.321}
-{'text': "so let's look at a few examples here we", 'start': 1200.88, 'duration': 5.12}
-{'text': 'have a function or a method called upper', 'start': 1203.36, 'duration': 4.48}
-{'text': 'and we use that to convert a string to', 'start': 1206.0, 'duration': 4.64}
-{'text': 'uppercase so if we print', 'start': 1207.84, 'duration': 4.56}
-{'text': 'course.upper', 'start': 1210.64, 'duration': 3.76}
-{'text': 'and run this program they can see our', 'start': 1212.4, 'duration': 3.92}
-{'text': 'course in uppercase', 'start': 1214.4, 'duration': 3.12}
-{'text': 'pretty useful', 'start': 1216.32, 'duration': 3.04}
-{'text': 'now what you need to understand here is', 'start': 1217.52, 'duration': 4.08}
-{'text': 'that this upper method does not change', 'start': 1219.36, 'duration': 4.88}
-{'text': 'our original string it will return a new', 'start': 1221.6, 'duration': 5.92}
-{'text': 'string so right after this if we print', 'start': 1224.24, 'duration': 5.36}
-{'text': 'course', 'start': 1227.52, 'duration': 4.0}
-{'text': 'you can see that our course variable is', 'start': 1229.6, 'duration': 4.8}
-{'text': 'not affected so the upper method returns', 'start': 1231.52, 'duration': 4.48}
-{'text': 'a new string', 'start': 1234.4, 'duration': 3.759}
-{'text': 'now similarly we have another method', 'start': 1236.0, 'duration': 4.72}
-{'text': 'called lower for converting a string to', 'start': 1238.159, 'duration': 5.52}
-{'text': 'lowercase we have a method called find', 'start': 1240.72, 'duration': 4.56}
-{'text': 'to see if our string contains a', 'start': 1243.679, 'duration': 3.921}
-{'text': 'character or a sequence of characters', 'start': 1245.28, 'duration': 4.879}
-{'text': 'for example here we can pass', 'start': 1247.6, 'duration': 3.36}
-{'text': 'y', 'start': 1250.159, 'duration': 3.201}
-{'text': 'and this will return the index of the', 'start': 1250.96, 'duration': 6.32}
-{'text': 'first occurrence of y in our string so', 'start': 1253.36, 'duration': 6.16}
-{'text': 'in python the index of the first', 'start': 1257.28, 'duration': 4.24}
-{'text': 'character in a string is 0. so here we', 'start': 1259.52, 'duration': 4.88}
-{'text': 'have 0 1 2 3 4 and so on so when we run', 'start': 1261.52, 'duration': 4.96}
-{'text': "this program you're going to see one on", 'start': 1264.4, 'duration': 5.12}
-{'text': 'the terminal because the index of y is', 'start': 1266.48, 'duration': 5.199}
-{'text': "1. take a look first i'm going to delete", 'start': 1269.52, 'duration': 4.96}
-{'text': "this line we don't need it anymore also", 'start': 1271.679, 'duration': 5.841}
-{'text': "let's do this line let's run the program", 'start': 1274.48, 'duration': 5.52}
-{'text': 'there you go', 'start': 1277.52, 'duration': 2.48}
-{'text': 'now as i told you before python is', 'start': 1280.08, 'duration': 3.92}
-{'text': 'sensitive to lowercase and uppercase', 'start': 1281.84, 'duration': 6.88}
-{'text': 'letters so if i pass an uppercase y here', 'start': 1284.0, 'duration': 7.039}
-{'text': 'this find method returns negative 1', 'start': 1288.72, 'duration': 4.16}
-{'text': "because we don't have an uppercase y in", 'start': 1291.039, 'duration': 4.401}
-{'text': 'this string we can also pass a sequence', 'start': 1292.88, 'duration': 5.279}
-{'text': 'of characters for example 4. so this', 'start': 1295.44, 'duration': 5.76}
-{'text': 'will return the index of the word 4.', 'start': 1298.159, 'duration': 4.961}
-{'text': 'take a look', 'start': 1301.2, 'duration': 3.68}
-{'text': "so it's 7.", 'start': 1303.12, 'duration': 3.12}
-{'text': 'now there are times we want to replace', 'start': 1304.88, 'duration': 2.88}
-{'text': 'something in a string with something', 'start': 1306.24, 'duration': 2.24}
-{'text': 'else', 'start': 1307.76, 'duration': 3.6}
-{'text': 'to do that we use the replace method', 'start': 1308.48, 'duration': 4.319}
-{'text': 'replace', 'start': 1311.36, 'duration': 3.36}
-{'text': 'so we can replace 4', 'start': 1312.799, 'duration': 2.88}
-{'text': 'with', 'start': 1314.72, 'duration': 3.36}
-{'text': 'a string containing the number 4. take a', 'start': 1315.679, 'duration': 4.0}
-{'text': 'look', 'start': 1318.08, 'duration': 4.079}
-{'text': 'so python for beginners', 'start': 1319.679, 'duration': 3.761}
-{'text': 'obviously', 'start': 1322.159, 'duration': 2.64}
-{'text': 'if you look for a character or a', 'start': 1323.44, 'duration': 3.28}
-{'text': "sequence of characters that don't exist", 'start': 1324.799, 'duration': 4.0}
-{'text': 'in our string nothing is going to happen', 'start': 1326.72, 'duration': 4.64}
-{'text': 'for example if we try to replace x with', 'start': 1328.799, 'duration': 5.921}
-{'text': "4 obviously we don't have x here so", 'start': 1331.36, 'duration': 5.199}
-{'text': 'nothing is going to happen', 'start': 1334.72, 'duration': 4.24}
-{'text': 'also just like the upper method the', 'start': 1336.559, 'duration': 4.641}
-{'text': 'replace method is not going to modify', 'start': 1338.96, 'duration': 4.0}
-{'text': "our original string so it's going to", 'start': 1341.2, 'duration': 3.92}
-{'text': 'return a new string this is because', 'start': 1342.96, 'duration': 4.4}
-{'text': 'strings in python and many other', 'start': 1345.12, 'duration': 4.64}
-{'text': 'programming languages are immutable we', 'start': 1347.36, 'duration': 4.559}
-{'text': 'cannot change them once we create them', 'start': 1349.76, 'duration': 3.76}
-{'text': 'whenever we want to change your string', 'start': 1351.919, 'duration': 3.521}
-{'text': "we'll end up with a new string object in", 'start': 1353.52, 'duration': 2.88}
-{'text': 'memory', 'start': 1355.44, 'duration': 2.239}
-{'text': 'now one last thing i want to cover in', 'start': 1356.4, 'duration': 3.04}
-{'text': 'this tutorial there are times you want', 'start': 1357.679, 'duration': 3.761}
-{'text': 'to see if your string contains a', 'start': 1359.44, 'duration': 4.32}
-{'text': 'character or a sequence of characters', 'start': 1361.44, 'duration': 4.4}
-{'text': 'one way to do that is using the find', 'start': 1363.76, 'duration': 5.039}
-{'text': "method that we talked about so let's see", 'start': 1365.84, 'duration': 4.24}
-{'text': 'if our string', 'start': 1368.799, 'duration': 3.521}
-{'text': 'contains python', 'start': 1370.08, 'duration': 4.479}
-{'text': 'now when we run this program', 'start': 1372.32, 'duration': 4.08}
-{'text': 'that is the index of the first', 'start': 1374.559, 'duration': 4.0}
-{'text': 'occurrence of the word python in our', 'start': 1376.4, 'duration': 4.88}
-{'text': 'string now in python we can also use the', 'start': 1378.559, 'duration': 4.801}
-{'text': 'in operator so we can write an', 'start': 1381.28, 'duration': 4.24}
-{'text': 'expression like this', 'start': 1383.36, 'duration': 3.76}
-{'text': 'we type a string', 'start': 1385.52, 'duration': 5.36}
-{'text': 'python then we type in this is a special', 'start': 1387.12, 'duration': 6.16}
-{'text': 'keyword in python this is what we call', 'start': 1390.88, 'duration': 4.159}
-{'text': 'the in operator', 'start': 1393.28, 'duration': 4.24}
-{'text': 'so after that we type the name of our', 'start': 1395.039, 'duration': 3.601}
-{'text': 'variable', 'start': 1397.52, 'duration': 3.279}
-{'text': "so with this expression we're checking", 'start': 1398.64, 'duration': 5.12}
-{'text': 'to see if we have python in course as', 'start': 1400.799, 'duration': 5.12}
-{'text': 'you can see python code is very readable', 'start': 1403.76, 'duration': 4.48}
-{'text': "it's like plain english so when we run", 'start': 1405.919, 'duration': 3.76}
-{'text': 'this program', 'start': 1408.24, 'duration': 3.52}
-{'text': 'instead of seeing the index of the first', 'start': 1409.679, 'duration': 4.401}
-{'text': 'occurrence of python we see a boolean', 'start': 1411.76, 'duration': 4.48}
-{'text': 'value this is more desirable in a lot of', 'start': 1414.08, 'duration': 3.2}
-{'text': 'cases', 'start': 1416.24, 'duration': 2.64}
-{'text': "next we're going to look at arithmetic", 'start': 1417.28, 'duration': 4.24}
-{'text': 'operations', 'start': 1418.88, 'duration': 2.64}
-{'text': "in this tutorial i'm going to show you", 'start': 1425.919, 'duration': 3.281}
-{'text': 'the arithmetic operators that we have in', 'start': 1427.2, 'duration': 4.24}
-{'text': 'python these are the same arithmetic', 'start': 1429.2, 'duration': 4.0}
-{'text': 'operators that we have in math for', 'start': 1431.44, 'duration': 3.599}
-{'text': 'example we can add numbers we can', 'start': 1433.2, 'duration': 4.479}
-{'text': 'subtract them multiply them and so on so', 'start': 1435.039, 'duration': 3.76}
-{'text': "let's print", 'start': 1437.679, 'duration': 4.48}
-{'text': '10 plus 3. let me run this program we', 'start': 1438.799, 'duration': 4.561}
-{'text': 'have 13.', 'start': 1442.159, 'duration': 4.0}
-{'text': 'so this is the addition operator we also', 'start': 1443.36, 'duration': 4.24}
-{'text': 'have subtraction', 'start': 1446.159, 'duration': 3.361}
-{'text': 'we have multiplication', 'start': 1447.6, 'duration': 4.72}
-{'text': 'and division now technically we have two', 'start': 1449.52, 'duration': 4.96}
-{'text': 'different types of division operators we', 'start': 1452.32, 'duration': 4.32}
-{'text': 'have a division with one slash and', 'start': 1454.48, 'duration': 4.48}
-{'text': "another with two slashes let's look at", 'start': 1456.64, 'duration': 4.159}
-{'text': 'the differences if you use a single', 'start': 1458.96, 'duration': 3.44}
-{'text': 'slash', 'start': 1460.799, 'duration': 3.841}
-{'text': 'we get a floating point number that is a', 'start': 1462.4, 'duration': 4.399}
-{'text': 'number with a decimal point but if we', 'start': 1464.64, 'duration': 3.84}
-{'text': 'use double slashes', 'start': 1466.799, 'duration': 2.801}
-{'text': 'we get', 'start': 1468.48, 'duration': 4.799}
-{'text': 'an integer a whole number we also have', 'start': 1469.6, 'duration': 5.84}
-{'text': 'the modulus operator that is indicated', 'start': 1473.279, 'duration': 4.801}
-{'text': 'by a percent sign and this returns the', 'start': 1475.44, 'duration': 4.719}
-{'text': 'remainder of the division of ten by', 'start': 1478.08, 'duration': 3.68}
-{'text': 'three so', 'start': 1480.159, 'duration': 4.0}
-{'text': 'that is one and finally we have the', 'start': 1481.76, 'duration': 4.88}
-{'text': 'exponent operator that is indicated by', 'start': 1484.159, 'duration': 5.76}
-{'text': 'two asterisks so this is 10 to the power', 'start': 1486.64, 'duration': 5.919}
-{'text': 'of three so when we run this we get a', 'start': 1489.919, 'duration': 4.081}
-{'text': 'thousand', 'start': 1492.559, 'duration': 3.921}
-{'text': 'now for all these operators that you saw', 'start': 1494.0, 'duration': 5.039}
-{'text': 'we have an augmented assignment operator', 'start': 1496.48, 'duration': 4.88}
-{'text': "let me explain what it means so let's", 'start': 1499.039, 'duration': 4.64}
-{'text': 'say we have a variable called x', 'start': 1501.36, 'duration': 4.16}
-{'text': 'and we set it to 10.', 'start': 1503.679, 'duration': 3.841}
-{'text': 'now we want to increment the value of x', 'start': 1505.52, 'duration': 4.56}
-{'text': 'by 3. so we have to write code like this', 'start': 1507.52, 'duration': 3.44}
-{'text': 'x', 'start': 1510.08, 'duration': 4.0}
-{'text': 'equals x plus 3. when python executes', 'start': 1510.96, 'duration': 5.12}
-{'text': "this code it's going to evaluate this", 'start': 1514.08, 'duration': 4.16}
-{'text': 'expression or this piece of code the', 'start': 1516.08, 'duration': 4.24}
-{'text': 'result of this expression is 10 plus 3', 'start': 1518.24, 'duration': 5.439}
-{'text': 'which is 13. then it will store 13 in', 'start': 1520.32, 'duration': 4.479}
-{'text': 'the x', 'start': 1523.679, 'duration': 2.88}
-{'text': 'now there is another way to achieve the', 'start': 1524.799, 'duration': 4.641}
-{'text': 'same result using less code we can type', 'start': 1526.559, 'duration': 5.841}
-{'text': 'x plus equal three', 'start': 1529.44, 'duration': 4.88}
-{'text': 'what we have on line three is exactly', 'start': 1532.4, 'duration': 4.56}
-{'text': 'identical to what we have on line two so', 'start': 1534.32, 'duration': 4.32}
-{'text': 'what we have here is called the', 'start': 1536.96, 'duration': 4.719}
-{'text': 'augmented assignment operator so we have', 'start': 1538.64, 'duration': 5.039}
-{'text': 'this assignment operator but we have', 'start': 1541.679, 'duration': 4.561}
-{'text': 'augmented or enhanced it', 'start': 1543.679, 'duration': 4.561}
-{'text': 'now here we can also use', 'start': 1546.24, 'duration': 4.48}
-{'text': 'subtraction to decrease the value of x', 'start': 1548.24, 'duration': 6.0}
-{'text': 'by 3 we can use multiplication and so on', 'start': 1550.72, 'duration': 5.6}
-{'text': 'so these are the arithmetic operators in', 'start': 1554.24, 'duration': 4.559}
-{'text': 'python', 'start': 1556.32, 'duration': 2.479}
-{'text': "all right let me ask you a question i'm", 'start': 1563.2, 'duration': 3.839}
-{'text': 'going to declare a variable called x and', 'start': 1564.96, 'duration': 5.52}
-{'text': 'set it to 10 plus 3 times 2. what do you', 'start': 1567.039, 'duration': 5.441}
-{'text': 'think is the result of this expression', 'start': 1570.48, 'duration': 3.76}
-{'text': 'this is a basic math question that', 'start': 1572.48, 'duration': 3.84}
-{'text': 'unfortunately a lot of people fail to', 'start': 1574.24, 'duration': 2.96}
-{'text': 'answer', 'start': 1576.32, 'duration': 4.16}
-{'text': "the answer is 16. here's the reason in", 'start': 1577.2, 'duration': 4.959}
-{'text': 'math we have this concept called', 'start': 1580.48, 'duration': 4.24}
-{'text': 'operator precedence and that determines', 'start': 1582.159, 'duration': 4.721}
-{'text': 'the order in which these operators are', 'start': 1584.72, 'duration': 5.36}
-{'text': 'applied so multiplication and division', 'start': 1586.88, 'duration': 5.279}
-{'text': 'have a higher order so this part of the', 'start': 1590.08, 'duration': 4.56}
-{'text': 'expression gets evaluated first so 2', 'start': 1592.159, 'duration': 4.081}
-{'text': 'times 3 is 6', 'start': 1594.64, 'duration': 4.48}
-{'text': 'and then the result is added to 10. that', 'start': 1596.24, 'duration': 4.72}
-{'text': 'is why the result of this expression is', 'start': 1599.12, 'duration': 5.12}
-{'text': '16. now in python operator precedence is', 'start': 1600.96, 'duration': 5.199}
-{'text': 'exactly like math but we can always', 'start': 1604.24, 'duration': 4.48}
-{'text': 'change it using parenthesis for example', 'start': 1606.159, 'duration': 4.961}
-{'text': 'in this expression if you want 10 plus 3', 'start': 1608.72, 'duration': 4.959}
-{'text': 'to be evaluated first we can wrap it in', 'start': 1611.12, 'duration': 3.919}
-{'text': 'parenthesis', 'start': 1613.679, 'duration': 3.12}
-{'text': 'so', 'start': 1615.039, 'duration': 4.161}
-{'text': 'like this now when we execute this code', 'start': 1616.799, 'duration': 5.36}
-{'text': "we're going to see 26 because 10 plus 3", 'start': 1619.2, 'duration': 6.16}
-{'text': "is 13 and that divided by 2 is 26. let's", 'start': 1622.159, 'duration': 6.0}
-{'text': 'verify this so print x', 'start': 1625.36, 'duration': 5.919}
-{'text': 'and we get 26.', 'start': 1628.159, 'duration': 3.12}
-{'text': 'so you learn about the arithmetic', 'start': 1635.6, 'duration': 3.84}
-{'text': 'operators in python now in python we', 'start': 1637.039, 'duration': 4.721}
-{'text': 'have another set of operators called', 'start': 1639.44, 'duration': 4.56}
-{'text': 'comparison operators we use these', 'start': 1641.76, 'duration': 4.48}
-{'text': 'operators to compare values let me show', 'start': 1644.0, 'duration': 4.08}
-{'text': "you so i'm going to declare a variable", 'start': 1646.24, 'duration': 3.039}
-{'text': 'called x', 'start': 1648.08, 'duration': 4.24}
-{'text': 'and set it to an expression like this 3', 'start': 1649.279, 'duration': 5.921}
-{'text': 'is greater than 2. so what we have here', 'start': 1652.32, 'duration': 5.28}
-{'text': 'this piece of code this expression is', 'start': 1655.2, 'duration': 4.479}
-{'text': 'called a boolean expression because it', 'start': 1657.6, 'duration': 4.959}
-{'text': 'produces a boolean value so in this case', 'start': 1659.679, 'duration': 5.281}
-{'text': 'because 3 is greater than 2 the result', 'start': 1662.559, 'duration': 4.801}
-{'text': 'of this expression is the boolean true', 'start': 1664.96, 'duration': 6.079}
-{'text': 'so if we print x', 'start': 1667.36, 'duration': 5.76}
-{'text': 'we get true on the terminal', 'start': 1671.039, 'duration': 4.321}
-{'text': 'so here is the greater than operator we', 'start': 1673.12, 'duration': 5.52}
-{'text': 'also have greater than or equal to we', 'start': 1675.36, 'duration': 5.919}
-{'text': 'have less than we have less than or', 'start': 1678.64, 'duration': 3.759}
-{'text': 'equal to', 'start': 1681.279, 'duration': 3.041}
-{'text': 'here is the equality operator which is', 'start': 1682.399, 'duration': 4.561}
-{'text': 'indicated by two equal signs do not', 'start': 1684.32, 'duration': 4.64}
-{'text': 'confuse this with the assignment', 'start': 1686.96, 'duration': 4.24}
-{'text': "operator so here we're comparing three", 'start': 1688.96, 'duration': 4.48}
-{'text': 'and two for equality so if we run our', 'start': 1691.2, 'duration': 3.92}
-{'text': 'program', 'start': 1693.44, 'duration': 3.839}
-{'text': 'we see false because 3', 'start': 1695.12, 'duration': 4.0}
-{'text': 'does not equal to 2.', 'start': 1697.279, 'duration': 3.921}
-{'text': "so here's the equality operator we also", 'start': 1699.12, 'duration': 3.2}
-{'text': 'have', 'start': 1701.2, 'duration': 3.28}
-{'text': 'the not equality operator that is', 'start': 1702.32, 'duration': 4.4}
-{'text': 'indicated by an exclamation mark', 'start': 1704.48, 'duration': 4.4}
-{'text': 'followed by an equal sign', 'start': 1706.72, 'duration': 4.16}
-{'text': "so let's quickly recap", 'start': 1708.88, 'duration': 3.679}
-{'text': 'here are the comparison operators we', 'start': 1710.88, 'duration': 4.72}
-{'text': 'have in python greater than greater than', 'start': 1712.559, 'duration': 5.681}
-{'text': 'or equal to less than less than or equal', 'start': 1715.6, 'duration': 3.52}
-{'text': 'to', 'start': 1718.24, 'duration': 3.28}
-{'text': 'equal and not equal', 'start': 1719.12, 'duration': 4.159}
-{'text': 'these operators are extremely important', 'start': 1721.52, 'duration': 4.0}
-{'text': 'in real python programs because quite', 'start': 1723.279, 'duration': 4.081}
-{'text': 'often we have to compare values to', 'start': 1725.52, 'duration': 3.68}
-{'text': "evaluate certain conditions you're going", 'start': 1727.36, 'duration': 4.559}
-{'text': 'to see that soon', 'start': 1729.2, 'duration': 2.719}
-{'text': 'in python we have another set of', 'start': 1736.24, 'duration': 4.72}
-{'text': 'operators called logical operators we', 'start': 1738.0, 'duration': 4.88}
-{'text': 'use these operators to build complex', 'start': 1740.96, 'duration': 4.24}
-{'text': 'rules and conditions let me show you so', 'start': 1742.88, 'duration': 3.76}
-{'text': "i'm going to declare a variable called", 'start': 1745.2, 'duration': 4.079}
-{'text': 'price and set it to 25.', 'start': 1746.64, 'duration': 4.08}
-{'text': "now let's print", 'start': 1749.279, 'duration': 3.361}
-{'text': 'a boolean expression like this', 'start': 1750.72, 'duration': 4.959}
-{'text': 'price is greater than 10.', 'start': 1752.64, 'duration': 4.399}
-{'text': "now let's say we want to check to see if", 'start': 1755.679, 'duration': 4.801}
-{'text': 'the price is between 10 and 30. this is', 'start': 1757.039, 'duration': 6.64}
-{'text': 'where we use the logical and operator so', 'start': 1760.48, 'duration': 6.079}
-{'text': 'we type and and right after that we type', 'start': 1763.679, 'duration': 5.921}
-{'text': 'another boolean expression surprise less', 'start': 1766.559, 'duration': 6.641}
-{'text': 'than 30. so with this and operator if', 'start': 1769.6, 'duration': 5.6}
-{'text': 'both these boolean expressions return', 'start': 1773.2, 'duration': 3.92}
-{'text': 'true the result of this entire', 'start': 1775.2, 'duration': 5.92}
-{'text': 'expression will be true take a look so', 'start': 1777.12, 'duration': 5.919}
-{'text': 'in this case we get true', 'start': 1781.12, 'duration': 4.48}
-{'text': 'because the price is between 10 and 30', 'start': 1783.039, 'duration': 3.601}
-{'text': 'dollars', 'start': 1785.6, 'duration': 2.4}
-{'text': 'we also have', 'start': 1786.64, 'duration': 3.039}
-{'text': 'the or operator', 'start': 1788.0, 'duration': 4.159}
-{'text': 'with the or operator if at least one of', 'start': 1789.679, 'duration': 4.88}
-{'text': 'these boolean expressions returns true', 'start': 1792.159, 'duration': 4.0}
-{'text': 'then the result of this entire', 'start': 1794.559, 'duration': 3.12}
-{'text': 'expression will be true', 'start': 1796.159, 'duration': 3.681}
-{'text': "to demonstrate this i'm going to change", 'start': 1797.679, 'duration': 5.041}
-{'text': "price to 5. let's see how python is", 'start': 1799.84, 'duration': 4.8}
-{'text': "going to execute this code so first it's", 'start': 1802.72, 'duration': 4.0}
-{'text': 'going to look at this boolean expression', 'start': 1804.64, 'duration': 5.36}
-{'text': "is price greater than 10 no it's not so", 'start': 1806.72, 'duration': 4.88}
-{'text': 'it will keep going', 'start': 1810.0, 'duration': 3.44}
-{'text': 'then it will look at the second boolean', 'start': 1811.6, 'duration': 5.04}
-{'text': 'expression is price less than 30 it sure', 'start': 1813.44, 'duration': 4.88}
-{'text': 'is so the result of this entire', 'start': 1816.64, 'duration': 5.44}
-{'text': 'expression will be true take a look', 'start': 1818.32, 'duration': 4.88}
-{'text': 'there you go', 'start': 1822.08, 'duration': 3.36}
-{'text': 'we also have the not operator which', 'start': 1823.2, 'duration': 4.24}
-{'text': 'basically inverses any values that you', 'start': 1825.44, 'duration': 5.28}
-{'text': 'give it let me show you so', 'start': 1827.44, 'duration': 4.719}
-{'text': "we're going to have one boolean", 'start': 1830.72, 'duration': 4.24}
-{'text': 'expression price greater than 10. the', 'start': 1832.159, 'duration': 5.041}
-{'text': 'result of this expression is false', 'start': 1834.96, 'duration': 5.04}
-{'text': 'now if you apply the not operator', 'start': 1837.2, 'duration': 6.079}
-{'text': 'this will inverse false to true so when', 'start': 1840.0, 'duration': 6.08}
-{'text': 'we run the program we get true', 'start': 1843.279, 'duration': 5.28}
-{'text': "so let's quickly recap in python we have", 'start': 1846.08, 'duration': 4.959}
-{'text': 'three logical operators we have logical', 'start': 1848.559, 'duration': 4.561}
-{'text': 'and which returns true if both', 'start': 1851.039, 'duration': 4.0}
-{'text': 'expressions return true', 'start': 1853.12, 'duration': 4.799}
-{'text': 'we have logical or which returns true if', 'start': 1855.039, 'duration': 5.76}
-{'text': 'at least one expression returns true and', 'start': 1857.919, 'duration': 5.36}
-{'text': 'we have not which inverses any value', 'start': 1860.799, 'duration': 5.041}
-{'text': 'that we give it', 'start': 1863.279, 'duration': 2.561}
-{'text': "in this tutorial we're going to talk", 'start': 1870.08, 'duration': 4.079}
-{'text': 'about if statements in python we use if', 'start': 1871.36, 'duration': 4.48}
-{'text': 'statements to make decisions in our', 'start': 1874.159, 'duration': 3.921}
-{'text': 'programs for example we can declare a', 'start': 1875.84, 'duration': 4.079}
-{'text': 'variable called temperature and', 'start': 1878.08, 'duration': 3.599}
-{'text': 'depending on the value of this variable', 'start': 1879.919, 'duration': 3.6}
-{'text': 'we can print different messages on the', 'start': 1881.679, 'duration': 3.521}
-{'text': 'terminal let me show you', 'start': 1883.519, 'duration': 4.081}
-{'text': "so here's our temperature variable", 'start': 1885.2, 'duration': 4.56}
-{'text': 'we set it to 35.', 'start': 1887.6, 'duration': 4.4}
-{'text': "now let's say if temperature is greater", 'start': 1889.76, 'duration': 4.399}
-{'text': 'than 30 we want to print a message', 'start': 1892.0, 'duration': 5.519}
-{'text': "saying it's a hot day so we type if", 'start': 1894.159, 'duration': 5.601}
-{'text': 'then we type a condition and this is', 'start': 1897.519, 'duration': 4.721}
-{'text': 'where we use our comparison operators so', 'start': 1899.76, 'duration': 4.32}
-{'text': 'we type temperature', 'start': 1902.24, 'duration': 4.24}
-{'text': 'greater than 30.', 'start': 1904.08, 'duration': 4.88}
-{'text': 'then so we add a colon and see what', 'start': 1906.48, 'duration': 5.039}
-{'text': 'happens when i press enter now', 'start': 1908.96, 'duration': 4.4}
-{'text': 'the character is indented and this', 'start': 1911.519, 'duration': 4.561}
-{'text': 'represents a block of code so the code', 'start': 1913.36, 'duration': 5.039}
-{'text': 'that we write over here will be executed', 'start': 1916.08, 'duration': 4.64}
-{'text': "if this condition is true otherwise it's", 'start': 1918.399, 'duration': 4.64}
-{'text': 'not going to be executed let me show you', 'start': 1920.72, 'duration': 3.36}
-{'text': 'so', 'start': 1923.039, 'duration': 3.601}
-{'text': "we're going to print", 'start': 1924.08, 'duration': 4.479}
-{'text': "it's a hot day", 'start': 1926.64, 'duration': 3.279}
-{'text': "and by the way note that here i've", 'start': 1928.559, 'duration': 4.0}
-{'text': 'surrounded the string with double quotes', 'start': 1929.919, 'duration': 5.281}
-{'text': 'because here we have a single quote as', 'start': 1932.559, 'duration': 4.881}
-{'text': "an apostrophe so i couldn't declare a", 'start': 1935.2, 'duration': 5.04}
-{'text': 'string like this with single quotes if i', 'start': 1937.44, 'duration': 5.359}
-{'text': "typed it's a hot day", 'start': 1940.24, 'duration': 5.12}
-{'text': 'look python gets confused because it', 'start': 1942.799, 'duration': 4.961}
-{'text': 'thinks this single code represents the', 'start': 1945.36, 'duration': 3.84}
-{'text': "end of our string so it doesn't", 'start': 1947.76, 'duration': 4.56}
-{'text': 'recognize the subsequent characters okay', 'start': 1949.2, 'duration': 5.28}
-{'text': "so that's why we use", 'start': 1952.32, 'duration': 4.16}
-{'text': 'double quotes here', 'start': 1954.48, 'duration': 3.679}
-{'text': 'so we can have an apostrophe in our', 'start': 1956.48, 'duration': 2.559}
-{'text': 'string', 'start': 1958.159, 'duration': 3.201}
-{'text': "so it's a hot day", 'start': 1959.039, 'duration': 4.48}
-{'text': 'now if i press enter again', 'start': 1961.36, 'duration': 4.799}
-{'text': 'the carrot is indented so the code that', 'start': 1963.519, 'duration': 5.121}
-{'text': 'right here will be part of our if block', 'start': 1966.159, 'duration': 4.161}
-{'text': 'and it will get executed if this', 'start': 1968.64, 'duration': 4.72}
-{'text': 'condition is true so here we can print', 'start': 1970.32, 'duration': 7.28}
-{'text': 'a second message drink plenty of water', 'start': 1973.36, 'duration': 6.319}
-{'text': 'now to terminate this block we press', 'start': 1977.6, 'duration': 5.28}
-{'text': 'enter and then press shift and tab', 'start': 1979.679, 'duration': 5.761}
-{'text': 'the carrot is no longer indented so the', 'start': 1982.88, 'duration': 4.72}
-{'text': 'code that we write here will always get', 'start': 1985.44, 'duration': 4.32}
-{'text': 'executed no matter what whether this', 'start': 1987.6, 'duration': 4.16}
-{'text': 'condition is true or not', 'start': 1989.76, 'duration': 4.0}
-{'text': 'now in c based programming languages', 'start': 1991.76, 'duration': 5.6}
-{'text': 'like c plus c sharp java and javascript', 'start': 1993.76, 'duration': 5.68}
-{'text': 'we present a block of code using curly', 'start': 1997.36, 'duration': 4.4}
-{'text': 'braces so', 'start': 1999.44, 'duration': 4.239}
-{'text': 'you start a block of code using a left', 'start': 2001.76, 'duration': 2.799}
-{'text': 'brace', 'start': 2003.679, 'duration': 3.6}
-{'text': 'and then end it using a right brace in', 'start': 2004.559, 'duration': 4.96}
-{'text': "python we don't have curly braces so we", 'start': 2007.279, 'duration': 4.561}
-{'text': 'use indentation to represent a block of', 'start': 2009.519, 'duration': 4.16}
-{'text': 'code okay', 'start': 2011.84, 'duration': 2.64}
-{'text': 'so', 'start': 2013.679, 'duration': 2.0}
-{'text': 'in this case', 'start': 2014.48, 'duration': 2.96}
-{'text': 'these two lines are indented and that', 'start': 2015.679, 'duration': 4.401}
-{'text': 'means they are part of this block of', 'start': 2017.44, 'duration': 3.52}
-{'text': 'code', 'start': 2020.08, 'duration': 2.64}
-{'text': "now let's run the program and see what", 'start': 2020.96, 'duration': 3.36}
-{'text': 'happens', 'start': 2022.72, 'duration': 3.439}
-{'text': 'so we see these two messages because the', 'start': 2024.32, 'duration': 4.32}
-{'text': 'temperature is greater than 30.', 'start': 2026.159, 'duration': 3.441}
-{'text': 'now', 'start': 2028.64, 'duration': 3.919}
-{'text': 'if i change the temperature to 25', 'start': 2029.6, 'duration': 5.199}
-{'text': "and run the program again we don't see", 'start': 2032.559, 'duration': 4.48}
-{'text': 'anything okay', 'start': 2034.799, 'duration': 3.041}
-{'text': 'now', 'start': 2037.039, 'duration': 3.441}
-{'text': "after this block let's print", 'start': 2037.84, 'duration': 3.52}
-{'text': 'done', 'start': 2040.48, 'duration': 2.88}
-{'text': 'because this code is not indented it', 'start': 2041.36, 'duration': 4.319}
-{'text': "will always get executed it's not part", 'start': 2043.36, 'duration': 5.92}
-{'text': 'of our if block okay so take a look', 'start': 2045.679, 'duration': 5.361}
-{'text': "here's the down message", 'start': 2049.28, 'duration': 2.48}
-{'text': 'now', 'start': 2051.04, 'duration': 3.28}
-{'text': "let's add a second condition so if", 'start': 2051.76, 'duration': 5.359}
-{'text': 'temperature is not greater than 30 that', 'start': 2054.32, 'duration': 6.64}
-{'text': "means it's less than or equal to 30. so", 'start': 2057.119, 'duration': 6.401}
-{'text': "i'm gonna add a second condition so if", 'start': 2060.96, 'duration': 4.959}
-{'text': 'the temperature is between 20 and 30 i', 'start': 2063.52, 'duration': 4.96}
-{'text': "want to print it's a nice day", 'start': 2065.919, 'duration': 5.041}
-{'text': 'so here we type l if', 'start': 2068.48, 'duration': 4.48}
-{'text': 'that is short for else if', 'start': 2070.96, 'duration': 4.56}
-{'text': 'and here we type a second condition', 'start': 2072.96, 'duration': 6.48}
-{'text': 'so temperature greater than 20.', 'start': 2075.52, 'duration': 6.72}
-{'text': 'we add a colon press enter now we have a', 'start': 2079.44, 'duration': 4.08}
-{'text': 'new block', 'start': 2082.24, 'duration': 3.439}
-{'text': 'so here we can print', 'start': 2083.52, 'duration': 4.639}
-{'text': "it's a nice day", 'start': 2085.679, 'duration': 4.801}
-{'text': 'so if this condition is true that means', 'start': 2088.159, 'duration': 4.081}
-{'text': 'the temperature', 'start': 2090.48, 'duration': 4.32}
-{'text': 'is greater than 20 and less than or', 'start': 2092.24, 'duration': 4.96}
-{'text': 'equal to 30. now what we have here is', 'start': 2094.8, 'duration': 5.039}
-{'text': "called a comment that is why it's grayed", 'start': 2097.2, 'duration': 4.639}
-{'text': "out it's not real code it's just some", 'start': 2099.839, 'duration': 4.081}
-{'text': 'note that we add to our program python', 'start': 2101.839, 'duration': 4.24}
-{'text': 'is not going to execute this so whenever', 'start': 2103.92, 'duration': 4.88}
-{'text': 'we type a pound sign what we have after', 'start': 2106.079, 'duration': 5.28}
-{'text': 'is treated as a comment okay', 'start': 2108.8, 'duration': 3.279}
-{'text': 'so', 'start': 2111.359, 'duration': 2.641}
-{'text': "if this condition is true then we're", 'start': 2112.079, 'duration': 3.28}
-{'text': 'going to see this message on the', 'start': 2114.0, 'duration': 3.28}
-{'text': "terminal let's run our program and", 'start': 2115.359, 'duration': 4.081}
-{'text': 'verify this', 'start': 2117.28, 'duration': 4.4}
-{'text': 'there you go the temperature is 25', 'start': 2119.44, 'duration': 4.24}
-{'text': "that's why we see this message", 'start': 2121.68, 'duration': 3.919}
-{'text': 'now we can have as many conditions as we', 'start': 2123.68, 'duration': 4.96}
-{'text': 'want there are no limitations okay', 'start': 2125.599, 'duration': 5.281}
-{'text': "so let's add another condition", 'start': 2128.64, 'duration': 3.28}
-{'text': 'l if', 'start': 2130.88, 'duration': 3.68}
-{'text': 'temperature is greater than 10', 'start': 2131.92, 'duration': 3.76}
-{'text': 'then', 'start': 2134.56, 'duration': 2.72}
-{'text': "we're going to print", 'start': 2135.68, 'duration': 3.679}
-{'text': "it's a bit cold", 'start': 2137.28, 'duration': 4.079}
-{'text': 'now in this case if this condition is', 'start': 2139.359, 'duration': 4.641}
-{'text': 'true that means the temperature is', 'start': 2141.359, 'duration': 4.321}
-{'text': 'greater than 10', 'start': 2144.0, 'duration': 4.0}
-{'text': 'and less than or equal to 20.', 'start': 2145.68, 'duration': 4.08}
-{'text': 'now finally if the temperature is less', 'start': 2148.0, 'duration': 3.76}
-{'text': "than 10 let's print a message saying", 'start': 2149.76, 'duration': 3.44}
-{'text': "it's a cold day", 'start': 2151.76, 'duration': 2.56}
-{'text': 'so', 'start': 2153.2, 'duration': 4.159}
-{'text': 'here we type else then we add a colon', 'start': 2154.32, 'duration': 4.799}
-{'text': 'and now we have a new block', 'start': 2157.359, 'duration': 4.881}
-{'text': 'so this code will get executed if none', 'start': 2159.119, 'duration': 5.281}
-{'text': 'of the above conditions are true', 'start': 2162.24, 'duration': 5.44}
-{'text': 'so here we can print', 'start': 2164.4, 'duration': 3.28}
-{'text': "it's called", 'start': 2167.92, 'duration': 4.08}
-{'text': 'so this is how we use if statements to', 'start': 2170.16, 'duration': 5.36}
-{'text': 'make decisions in our programs', 'start': 2172.0, 'duration': 3.52}
-{'text': "here's a great exercise for you to", 'start': 2180.0, 'duration': 3.76}
-{'text': 'practice what you have learned so far i', 'start': 2181.68, 'duration': 3.919}
-{'text': 'want you to write a weight converter', 'start': 2183.76, 'duration': 3.28}
-{'text': 'program like this', 'start': 2185.599, 'duration': 3.921}
-{'text': 'so this program is asking me my weight i', 'start': 2187.04, 'duration': 4.799}
-{'text': 'enter 170.', 'start': 2189.52, 'duration': 4.48}
-{'text': "next it's asking me if the weight is in", 'start': 2191.839, 'duration': 5.201}
-{'text': 'kilograms or pounds so i can type k for', 'start': 2194.0, 'duration': 6.24}
-{'text': 'kilograms or l for pounds i can type a', 'start': 2197.04, 'duration': 5.84}
-{'text': "lowercase l or an uppercase l it doesn't", 'start': 2200.24, 'duration': 6.4}
-{'text': "matter so let's go with a lowercase l", 'start': 2202.88, 'duration': 6.4}
-{'text': 'now it tells me weight in kilogram is', 'start': 2206.64, 'duration': 4.56}
-{'text': '76.5', 'start': 2209.28, 'duration': 3.68}
-{'text': 'so go ahead and spend 5 minutes on this', 'start': 2211.2, 'duration': 3.68}
-{'text': 'exercise you can use the comment box', 'start': 2212.96, 'duration': 4.08}
-{'text': 'below to share your code with others and', 'start': 2214.88, 'duration': 3.6}
-{'text': "then when you're done come back see my", 'start': 2217.04, 'duration': 3.92}
-{'text': 'solution', 'start': 2218.48, 'duration': 2.48}
-{'text': 'so first we call our input function to', 'start': 2222.88, 'duration': 4.08}
-{'text': 'ask the first question', 'start': 2225.28, 'duration': 4.4}
-{'text': 'wait we get the result and store it in a', 'start': 2226.96, 'duration': 5.2}
-{'text': 'variable called weight', 'start': 2229.68, 'duration': 4.32}
-{'text': 'next we call the input function one more', 'start': 2232.16, 'duration': 4.16}
-{'text': 'time to ask the second question', 'start': 2234.0, 'duration': 4.24}
-{'text': 'is this in kilogram', 'start': 2236.32, 'duration': 4.16}
-{'text': 'or', 'start': 2238.24, 'duration': 2.24}
-{'text': 'pounds we get the result and store it in', 'start': 2240.839, 'duration': 5.0}
-{'text': 'a variable called unit', 'start': 2243.92, 'duration': 3.36}
-{'text': "this is where we're going to use an if", 'start': 2245.839, 'duration': 2.641}
-{'text': 'statement', 'start': 2247.28, 'duration': 2.0}
-{'text': 'so', 'start': 2248.48, 'duration': 2.8}
-{'text': 'we want to check to see if unit', 'start': 2249.28, 'duration': 3.28}
-{'text': 'equals', 'start': 2251.28, 'duration': 2.96}
-{'text': 'k', 'start': 2252.56, 'duration': 3.68}
-{'text': 'then we should convert the weight to', 'start': 2254.24, 'duration': 3.76}
-{'text': 'pounds and print it on a terminal', 'start': 2256.24, 'duration': 2.8}
-{'text': 'however', 'start': 2258.0, 'duration': 3.76}
-{'text': 'with this code if i type a lowercase k', 'start': 2259.04, 'duration': 4.72}
-{'text': 'this condition is not going to be true', 'start': 2261.76, 'duration': 3.839}
-{'text': 'because earlier i told you that python', 'start': 2263.76, 'duration': 3.92}
-{'text': 'is a case sensitive language', 'start': 2265.599, 'duration': 2.881}
-{'text': 'so', 'start': 2267.68, 'duration': 2.48}
-{'text': 'we need to convert this string to', 'start': 2268.48, 'duration': 4.24}
-{'text': 'uppercase earlier we talked about string', 'start': 2270.16, 'duration': 5.28}
-{'text': 'methods so if we type dot we can see all', 'start': 2272.72, 'duration': 5.119}
-{'text': 'the functions or methods available in a', 'start': 2275.44, 'duration': 5.679}
-{'text': 'string object so we use the upper method', 'start': 2277.839, 'duration': 6.321}
-{'text': 'and this returns a new string in case', 'start': 2281.119, 'duration': 5.521}
-{'text': 'now if this condition is true first we', 'start': 2284.16, 'duration': 4.72}
-{'text': 'need to convert the weight to pounds so', 'start': 2286.64, 'duration': 3.92}
-{'text': 'we declare a new variable called', 'start': 2288.88, 'duration': 3.199}
-{'text': 'converted', 'start': 2290.56, 'duration': 6.88}
-{'text': 'get the weight and divide it by 0.45', 'start': 2292.079, 'duration': 7.601}
-{'text': 'and then we can print this on a terminal', 'start': 2297.44, 'duration': 3.76}
-{'text': 'so', 'start': 2299.68, 'duration': 2.96}
-{'text': 'we say weight', 'start': 2301.2, 'duration': 3.52}
-{'text': 'in pounds is', 'start': 2302.64, 'duration': 5.12}
-{'text': 'then we append converted', 'start': 2304.72, 'duration': 5.119}
-{'text': 'now to terminate this block we press', 'start': 2307.76, 'duration': 3.76}
-{'text': 'shift and tab', 'start': 2309.839, 'duration': 3.441}
-{'text': 'else colon', 'start': 2311.52, 'duration': 4.0}
-{'text': 'so if this condition is not true that', 'start': 2313.28, 'duration': 4.319}
-{'text': 'means the weight was entered in pounds', 'start': 2315.52, 'duration': 4.16}
-{'text': 'so we need to convert it to kilograms', 'start': 2317.599, 'duration': 4.081}
-{'text': 'once again we declare a variable', 'start': 2319.68, 'duration': 5.36}
-{'text': 'converted and set it to weight times', 'start': 2321.68, 'duration': 6.08}
-{'text': '0.45', 'start': 2325.04, 'duration': 4.16}
-{'text': 'and then we print', 'start': 2327.76, 'duration': 4.48}
-{'text': 'weight in kilograms', 'start': 2329.2, 'duration': 5.52}
-{'text': 'and here we concatenate', 'start': 2332.24, 'duration': 5.119}
-{'text': 'this string with converter all right now', 'start': 2334.72, 'duration': 4.32}
-{'text': 'we need to terminate this block so we', 'start': 2337.359, 'duration': 5.281}
-{'text': 'press enter then shift and tab good', 'start': 2339.04, 'duration': 5.039}
-{'text': "now if we run this program we're going", 'start': 2342.64, 'duration': 3.84}
-{'text': "to see an error let me show you so let's", 'start': 2344.079, 'duration': 3.441}
-{'text': 'run it', 'start': 2346.48, 'duration': 4.0}
-{'text': "here i'm going to enter 170", 'start': 2347.52, 'duration': 5.52}
-{'text': 'then i type a lowercase l', 'start': 2350.48, 'duration': 4.56}
-{'text': "okay here's an error", 'start': 2353.04, 'duration': 4.799}
-{'text': "can't multiply sequence by non-end of", 'start': 2355.04, 'duration': 6.0}
-{'text': 'type float so this is where we got this', 'start': 2357.839, 'duration': 6.081}
-{'text': 'error when we try to multiply the weight', 'start': 2361.04, 'duration': 4.96}
-{'text': 'by 0.45', 'start': 2363.92, 'duration': 3.36}
-{'text': 'so', 'start': 2366.0, 'duration': 3.599}
-{'text': 'that is line seven in our code now the', 'start': 2367.28, 'duration': 4.4}
-{'text': 'reason this is happening is because the', 'start': 2369.599, 'duration': 5.121}
-{'text': 'wait variable is storing a string object', 'start': 2371.68, 'duration': 4.88}
-{'text': 'because earlier i told you the input', 'start': 2374.72, 'duration': 4.56}
-{'text': 'function always returns a string so here', 'start': 2376.56, 'duration': 5.039}
-{'text': 'we need to convert the weight', 'start': 2379.28, 'duration': 5.52}
-{'text': 'to a number we can either use the end or', 'start': 2381.599, 'duration': 4.641}
-{'text': 'the float function', 'start': 2384.8, 'duration': 3.76}
-{'text': "let's run the program one more time", 'start': 2386.24, 'duration': 3.359}
-{'text': 'so', 'start': 2388.56, 'duration': 3.44}
-{'text': '170', 'start': 2389.599, 'duration': 3.921}
-{'text': 'in pounds', 'start': 2392.0, 'duration': 3.44}
-{'text': "here's the second error can only", 'start': 2393.52, 'duration': 5.52}
-{'text': 'concatenate string not float to string', 'start': 2395.44, 'duration': 5.76}
-{'text': 'and that error occurred', 'start': 2399.04, 'duration': 3.44}
-{'text': 'over here', 'start': 2401.2, 'duration': 3.04}
-{'text': 'when we try to print the weight in', 'start': 2402.48, 'duration': 4.0}
-{'text': 'kilograms so', 'start': 2404.24, 'duration': 3.68}
-{'text': 'look at line seven', 'start': 2406.48, 'duration': 3.92}
-{'text': 'in this case weight as an integer we are', 'start': 2407.92, 'duration': 4.88}
-{'text': 'multiplying an integer by a float and', 'start': 2410.4, 'duration': 4.08}
-{'text': 'the result of this operation is going to', 'start': 2412.8, 'duration': 3.76}
-{'text': 'be a float', 'start': 2414.48, 'duration': 3.68}
-{'text': 'now on line eight we are trying to', 'start': 2416.56, 'duration': 4.559}
-{'text': 'concatenate or combine a string with a', 'start': 2418.16, 'duration': 5.04}
-{'text': "float and python doesn't know how to", 'start': 2421.119, 'duration': 3.361}
-{'text': 'execute this code', 'start': 2423.2, 'duration': 3.28}
-{'text': 'to solve this problem we need to convert', 'start': 2424.48, 'duration': 5.28}
-{'text': 'this flow to a string so here we use the', 'start': 2426.48, 'duration': 5.92}
-{'text': 'built-in stir function', 'start': 2429.76, 'duration': 4.0}
-{'text': "let's run the program and see what", 'start': 2432.4, 'duration': 2.4}
-{'text': 'happens', 'start': 2433.76, 'duration': 3.079}
-{'text': 'so', 'start': 2434.8, 'duration': 5.2}
-{'text': "170 in pounds and here's my weight in", 'start': 2436.839, 'duration': 5.321}
-{'text': "kilograms now let's try entering a", 'start': 2440.0, 'duration': 4.72}
-{'text': 'weight in kilograms so run it one more', 'start': 2442.16, 'duration': 3.52}
-{'text': 'time', 'start': 2444.72, 'duration': 3.119}
-{'text': "let's say 76", 'start': 2445.68, 'duration': 4.08}
-{'text': 'kilos', 'start': 2447.839, 'duration': 4.161}
-{'text': 'here we get a familiar error can only', 'start': 2449.76, 'duration': 5.28}
-{'text': 'concatenate string to string not float', 'start': 2452.0, 'duration': 5.839}
-{'text': 'so this error occurred on line five', 'start': 2455.04, 'duration': 6.4}
-{'text': 'where we try to concatenate a string', 'start': 2457.839, 'duration': 5.601}
-{'text': 'to a float so once again we need to', 'start': 2461.44, 'duration': 5.44}
-{'text': 'convert this to a string object now', 'start': 2463.44, 'duration': 5.919}
-{'text': "let's run the program one more time", 'start': 2466.88, 'duration': 3.92}
-{'text': '76', 'start': 2469.359, 'duration': 2.48}
-{'text': 'kilos', 'start': 2470.8, 'duration': 5.2}
-{'text': 'is equal to 168 pounds', 'start': 2471.839, 'duration': 5.681}
-{'text': 'hey guys i just wanted to let you know', 'start': 2476.0, 'duration': 3.48}
-{'text': 'that i have an online coding school at', 'start': 2477.52, 'duration': 3.68}
-{'text': 'codewoodmosh.com where you can find', 'start': 2479.48, 'duration': 3.48}
-{'text': 'plenty of courses on web and mobile', 'start': 2481.2, 'duration': 3.2}
-{'text': 'development in fact i have a', 'start': 2482.96, 'duration': 3.6}
-{'text': 'comprehensive python course that teaches', 'start': 2484.4, 'duration': 3.76}
-{'text': 'you everything about python from the', 'start': 2486.56, 'duration': 3.759}
-{'text': 'basics to more advanced concepts so', 'start': 2488.16, 'duration': 3.84}
-{'text': 'after you watch this tutorial if you', 'start': 2490.319, 'duration': 3.121}
-{'text': 'want to learn more you may want to look', 'start': 2492.0, 'duration': 3.359}
-{'text': 'at my python course it comes with a 30', 'start': 2493.44, 'duration': 3.36}
-{'text': 'day money back guarantee and a', 'start': 2495.359, 'duration': 3.121}
-{'text': 'certificate of completion you can add to', 'start': 2496.8, 'duration': 3.6}
-{'text': "your resume in case you're interested", 'start': 2498.48, 'duration': 5.2}
-{'text': 'the link is below this video', 'start': 2500.4, 'duration': 3.28}
-{'text': "in this tutorial we're going to talk", 'start': 2506.48, 'duration': 3.839}
-{'text': 'about while loops in python we use while', 'start': 2507.68, 'duration': 4.96}
-{'text': 'loops to repeat a block of code multiple', 'start': 2510.319, 'duration': 4.081}
-{'text': "times for example let's say we want to", 'start': 2512.64, 'duration': 4.479}
-{'text': 'print the numbers one to five a poor way', 'start': 2514.4, 'duration': 5.12}
-{'text': 'of doing this is writing code like this', 'start': 2517.119, 'duration': 5.521}
-{'text': 'print one then print two print 3', 'start': 2519.52, 'duration': 5.68}
-{'text': 'print 4 and print 5.', 'start': 2522.64, 'duration': 4.88}
-{'text': 'now why is this a bad approach well what', 'start': 2525.2, 'duration': 4.639}
-{'text': 'if we wanted to print the numbers 1 to 1', 'start': 2527.52, 'duration': 4.559}
-{'text': "million we don't want to write 1 million", 'start': 2529.839, 'duration': 4.161}
-{'text': 'lines of code each line printing a', 'start': 2532.079, 'duration': 4.641}
-{'text': 'number this is where we use while loops', 'start': 2534.0, 'duration': 3.599}
-{'text': 'so', 'start': 2536.72, 'duration': 2.56}
-{'text': "we'll start off by declaring a variable", 'start': 2537.599, 'duration': 4.24}
-{'text': 'like i and set it to our initial number', 'start': 2539.28, 'duration': 3.76}
-{'text': "let's say one", 'start': 2541.839, 'duration': 3.76}
-{'text': 'then we type while and here we type a', 'start': 2543.04, 'duration': 4.48}
-{'text': 'condition so once again we can use our', 'start': 2545.599, 'duration': 3.76}
-{'text': 'comparison operators', 'start': 2547.52, 'duration': 5.2}
-{'text': "let's say i less than 5 less than or", 'start': 2549.359, 'duration': 4.641}
-{'text': 'equal to 5.', 'start': 2552.72, 'duration': 3.599}
-{'text': 'as long as this condition is true then', 'start': 2554.0, 'duration': 4.079}
-{'text': 'the code that we write inside of the', 'start': 2556.319, 'duration': 4.321}
-{'text': 'while block will get executed so here we', 'start': 2558.079, 'duration': 5.601}
-{'text': 'type a colon then press enter now we', 'start': 2560.64, 'duration': 4.64}
-{'text': 'have a block of code', 'start': 2563.68, 'duration': 4.399}
-{'text': 'in this block we can print i', 'start': 2565.28, 'duration': 5.44}
-{'text': 'and then we need to increment i y one so', 'start': 2568.079, 'duration': 5.681}
-{'text': "we set i to i plus one if you don't do", 'start': 2570.72, 'duration': 5.68}
-{'text': 'this i will always be one and this block', 'start': 2573.76, 'duration': 3.76}
-{'text': 'of code', 'start': 2576.4, 'duration': 3.679}
-{'text': 'will get executed indefinitely it will', 'start': 2577.52, 'duration': 4.48}
-{'text': 'never terminate basically our program', 'start': 2580.079, 'duration': 4.161}
-{'text': 'will continue running until it runs out', 'start': 2582.0, 'duration': 3.44}
-{'text': 'of memory', 'start': 2584.24, 'duration': 1.92}
-{'text': 'so', 'start': 2585.44, 'duration': 3.52}
-{'text': 'in the first iteration i is 1 is less', 'start': 2586.16, 'duration': 5.199}
-{'text': 'than 5 so python is going to execute', 'start': 2588.96, 'duration': 4.639}
-{'text': 'this block of code it will print 1 on', 'start': 2591.359, 'duration': 5.121}
-{'text': 'the terminal and then i becomes 2.', 'start': 2593.599, 'duration': 5.281}
-{'text': 'then the control moves back over here so', 'start': 2596.48, 'duration': 4.56}
-{'text': 'python evaluates this condition', 'start': 2598.88, 'duration': 4.88}
-{'text': '2 is less than or equal to 5 so the', 'start': 2601.04, 'duration': 5.2}
-{'text': 'condition is true and once again python', 'start': 2603.76, 'duration': 4.0}
-{'text': 'is going to execute this block one more', 'start': 2606.24, 'duration': 3.839}
-{'text': "time in the second iteration we're going", 'start': 2607.76, 'duration': 4.48}
-{'text': 'to see two on the terminal and then i', 'start': 2610.079, 'duration': 4.881}
-{'text': 'will become three so this will continue', 'start': 2612.24, 'duration': 4.879}
-{'text': 'until this condition is no longer true', 'start': 2614.96, 'duration': 4.08}
-{'text': 'let me show you so', 'start': 2617.119, 'duration': 3.841}
-{'text': "let's run this program", 'start': 2619.04, 'duration': 4.319}
-{'text': 'now we see the numbers one to five so', 'start': 2620.96, 'duration': 4.639}
-{'text': 'this is the beauty of while loops', 'start': 2623.359, 'duration': 4.561}
-{'text': 'i can easily change five', 'start': 2625.599, 'duration': 3.76}
-{'text': 'to one', 'start': 2627.92, 'duration': 3.52}
-{'text': "thousand and by the way i'm separating", 'start': 2629.359, 'duration': 4.24}
-{'text': 'these three digits using an underscore', 'start': 2631.44, 'duration': 3.919}
-{'text': 'this makes my number more readable we', 'start': 2633.599, 'duration': 3.281}
-{'text': "don't have to add this but it just makes", 'start': 2635.359, 'duration': 3.361}
-{'text': 'our code more readable', 'start': 2636.88, 'duration': 4.0}
-{'text': "so let's run the program", 'start': 2638.72, 'duration': 5.04}
-{'text': "now we see the numbers 1 to 1000. it's", 'start': 2640.88, 'duration': 5.68}
-{'text': 'much easier than 1000 lines of code each', 'start': 2643.76, 'duration': 5.04}
-{'text': 'printing a number okay now let me show', 'start': 2646.56, 'duration': 4.16}
-{'text': 'you something really cool', 'start': 2648.8, 'duration': 4.08}
-{'text': "so i'm going to change this", 'start': 2650.72, 'duration': 4.08}
-{'text': 'to 10.', 'start': 2652.88, 'duration': 4.32}
-{'text': 'now instead of printing i i want to', 'start': 2654.8, 'duration': 4.24}
-{'text': "print an expression so i'm going to", 'start': 2657.2, 'duration': 3.6}
-{'text': 'multiply i', 'start': 2659.04, 'duration': 4.559}
-{'text': 'by a string an asterisk', 'start': 2660.8, 'duration': 4.72}
-{'text': 'now you might be confused here because', 'start': 2663.599, 'duration': 3.841}
-{'text': 'earlier i told you that in python we', 'start': 2665.52, 'duration': 4.96}
-{'text': 'cannot concatenate a number to a string', 'start': 2667.44, 'duration': 5.04}
-{'text': "but here i'm using the multiplication", 'start': 2670.48, 'duration': 4.48}
-{'text': 'operator well this is different we can', 'start': 2672.48, 'duration': 4.879}
-{'text': 'multiply a number by a string and this', 'start': 2674.96, 'duration': 4.639}
-{'text': 'will repeat that string based on the', 'start': 2677.359, 'duration': 5.361}
-{'text': 'value of that number so if i is one', 'start': 2679.599, 'duration': 5.76}
-{'text': "we're gonna see one asterisk if i is", 'start': 2682.72, 'duration': 4.72}
-{'text': "five we're going to see five asterisks", 'start': 2685.359, 'duration': 4.24}
-{'text': 'let me show you so when we run this', 'start': 2687.44, 'duration': 4.0}
-{'text': 'program', 'start': 2689.599, 'duration': 4.0}
-{'text': 'we see this triangle shape because in', 'start': 2691.44, 'duration': 5.28}
-{'text': 'the first iteration i is one so we see', 'start': 2693.599, 'duration': 6.0}
-{'text': 'one asterisk in every iteration i is', 'start': 2696.72, 'duration': 5.28}
-{'text': 'incremented by one so we see one extra', 'start': 2699.599, 'duration': 4.48}
-{'text': 'asterisk and finally in the last', 'start': 2702.0, 'duration': 5.2}
-{'text': 'iteration i is 10 and we see 10', 'start': 2704.079, 'duration': 6.481}
-{'text': 'asterisks on the terminal', 'start': 2707.2, 'duration': 3.36}
-{'text': 'so you have learned about three types of', 'start': 2715.04, 'duration': 4.319}
-{'text': 'data in python we have numbers which can', 'start': 2716.64, 'duration': 4.88}
-{'text': 'be integers or floats', 'start': 2719.359, 'duration': 5.121}
-{'text': 'we have booleans and strings', 'start': 2721.52, 'duration': 5.28}
-{'text': 'these are what we refer to as primitive', 'start': 2724.48, 'duration': 5.04}
-{'text': 'or basic types in python now in python', 'start': 2726.8, 'duration': 5.039}
-{'text': 'we have a bunch of complex types as well', 'start': 2729.52, 'duration': 4.48}
-{'text': 'these complex types are very useful in', 'start': 2731.839, 'duration': 4.0}
-{'text': 'building real applications', 'start': 2734.0, 'duration': 3.119}
-{'text': "in this tutorial we're going to talk", 'start': 2735.839, 'duration': 4.161}
-{'text': 'about lists we use lists whenever we', 'start': 2737.119, 'duration': 5.281}
-{'text': 'want to represent a list of objects like', 'start': 2740.0, 'duration': 4.56}
-{'text': 'a list of numbers or a list of names let', 'start': 2742.4, 'duration': 3.199}
-{'text': 'me show you', 'start': 2744.56, 'duration': 3.2}
-{'text': "so i'm going to declare a variable", 'start': 2745.599, 'duration': 3.441}
-{'text': 'called names', 'start': 2747.76, 'duration': 3.359}
-{'text': 'and set it to a list of names', 'start': 2749.04, 'duration': 4.0}
-{'text': 'so here we add square brackets to', 'start': 2751.119, 'duration': 4.641}
-{'text': 'represent a list and now we can add one', 'start': 2753.04, 'duration': 5.279}
-{'text': 'or more objects inside this list in this', 'start': 2755.76, 'duration': 6.079}
-{'text': 'list we add a bunch of names like john', 'start': 2758.319, 'duration': 4.641}
-{'text': 'bob', 'start': 2761.839, 'duration': 2.401}
-{'text': 'marsh', 'start': 2762.96, 'duration': 2.24}
-{'text': 'sam', 'start': 2764.24, 'duration': 3.52}
-{'text': 'and mary so we separate this element', 'start': 2765.2, 'duration': 5.28}
-{'text': 'these items using a comma okay', 'start': 2767.76, 'duration': 3.68}
-{'text': 'now', 'start': 2770.48, 'duration': 4.56}
-{'text': "let's print our list so print names", 'start': 2771.44, 'duration': 4.8}
-{'text': 'take a look', 'start': 2775.04, 'duration': 3.68}
-{'text': 'it comes out exactly like how we wrote', 'start': 2776.24, 'duration': 3.359}
-{'text': 'it', 'start': 2778.72, 'duration': 2.879}
-{'text': 'now we can also get individual elements', 'start': 2779.599, 'duration': 4.081}
-{'text': 'in this list for example if we want to', 'start': 2781.599, 'duration': 4.561}
-{'text': 'get the first element in this list here', 'start': 2783.68, 'duration': 5.36}
-{'text': 'we type a pair of square brackets and', 'start': 2786.16, 'duration': 4.88}
-{'text': 'inside the square brackets we type an', 'start': 2789.04, 'duration': 4.559}
-{'text': 'index the index of the first element in', 'start': 2791.04, 'duration': 5.2}
-{'text': 'this list is zero so now when we run', 'start': 2793.599, 'duration': 4.401}
-{'text': "this program we're going to see john on", 'start': 2796.24, 'duration': 3.2}
-{'text': 'the terminal', 'start': 2798.0, 'duration': 2.88}
-{'text': 'there you go', 'start': 2799.44, 'duration': 2.24}
-{'text': 'now', 'start': 2800.88, 'duration': 2.8}
-{'text': 'in python we can also use a negative', 'start': 2801.68, 'duration': 3.84}
-{'text': 'index this is a feature that i', 'start': 2803.68, 'duration': 3.52}
-{'text': 'personally have not seen in other', 'start': 2805.52, 'duration': 3.36}
-{'text': 'programming languages', 'start': 2807.2, 'duration': 4.879}
-{'text': 'so if 0 represents the first element in', 'start': 2808.88, 'duration': 5.439}
-{'text': 'this list what do you think', 'start': 2812.079, 'duration': 5.441}
-{'text': 'negative 1 represents it represents the', 'start': 2814.319, 'duration': 5.601}
-{'text': "last element in this list let's verify", 'start': 2817.52, 'duration': 5.2}
-{'text': "it so let's run the program and here's", 'start': 2819.92, 'duration': 3.76}
-{'text': 'mary', 'start': 2822.72, 'duration': 3.28}
-{'text': 'what about', 'start': 2823.68, 'duration': 5.52}
-{'text': 'negative 2 well that represents the', 'start': 2826.0, 'duration': 4.8}
-{'text': 'second element', 'start': 2829.2, 'duration': 3.2}
-{'text': 'from the end of the list', 'start': 2830.8, 'duration': 4.96}
-{'text': "so let's run the program and here's some", 'start': 2832.4, 'duration': 5.439}
-{'text': 'then we can also change an object at a', 'start': 2835.76, 'duration': 4.64}
-{'text': "given index for example let's say here", 'start': 2837.839, 'duration': 4.801}
-{'text': 'we made a mistake and this john should', 'start': 2840.4, 'duration': 4.24}
-{'text': 'not be spelled with an h', 'start': 2842.64, 'duration': 5.52}
-{'text': 'so we need to reset it we type names of', 'start': 2844.64, 'duration': 4.479}
-{'text': 'zero', 'start': 2848.16, 'duration': 2.399}
-{'text': 'now we treat this like a regular', 'start': 2849.119, 'duration': 4.641}
-{'text': 'variable so we set it to a new value', 'start': 2850.559, 'duration': 6.0}
-{'text': "we set it to john without an h now let's", 'start': 2853.76, 'duration': 4.88}
-{'text': 'print our list', 'start': 2856.559, 'duration': 5.121}
-{'text': "and here's our updated list beautiful", 'start': 2858.64, 'duration': 5.52}
-{'text': 'we can also select a range of values for', 'start': 2861.68, 'duration': 4.879}
-{'text': "example let's say we're only interested", 'start': 2864.16, 'duration': 4.8}
-{'text': 'in the first three names', 'start': 2866.559, 'duration': 5.04}
-{'text': 'so over here we type square brackets', 'start': 2868.96, 'duration': 5.04}
-{'text': 'and here we need to type two indexes a', 'start': 2871.599, 'duration': 4.96}
-{'text': 'start index and an end index', 'start': 2874.0, 'duration': 4.559}
-{'text': 'our start index is a zero because we', 'start': 2876.559, 'duration': 3.76}
-{'text': 'want to start from here', 'start': 2878.559, 'duration': 5.121}
-{'text': 'and our end index is going to be zero', 'start': 2880.319, 'duration': 6.321}
-{'text': "one two plus one that's going to be", 'start': 2883.68, 'duration': 7.12}
-{'text': 'three so we add a colon three so python', 'start': 2886.64, 'duration': 6.08}
-{'text': 'is going to return all the elements from', 'start': 2890.8, 'duration': 4.799}
-{'text': 'the start index up to the end index but', 'start': 2892.72, 'duration': 5.2}
-{'text': "excluding the end index so it's going to", 'start': 2895.599, 'duration': 6.561}
-{'text': 'return the elements at index 0 1 and 2.', 'start': 2897.92, 'duration': 6.72}
-{'text': 'take a look', 'start': 2902.16, 'duration': 4.88}
-{'text': 'here are the first three names', 'start': 2904.64, 'duration': 4.4}
-{'text': 'and by the way', 'start': 2907.04, 'duration': 4.319}
-{'text': 'this expression does not modify our', 'start': 2909.04, 'duration': 6.079}
-{'text': 'original list it returns a new list so', 'start': 2911.359, 'duration': 6.24}
-{'text': 'right after this print statement if we', 'start': 2915.119, 'duration': 5.44}
-{'text': 'print our original list', 'start': 2917.599, 'duration': 5.041}
-{'text': "you can see that it's not changed", 'start': 2920.559, 'duration': 6.841}
-{'text': 'so this is how we use lists in python', 'start': 2922.64, 'duration': 4.76}
-{'text': 'earlier i told you that strengths in', 'start': 2931.44, 'duration': 4.08}
-{'text': 'python are objects objects in', 'start': 2932.96, 'duration': 4.24}
-{'text': 'programming are kind of like objects in', 'start': 2935.52, 'duration': 3.52}
-{'text': 'the real world like your mobile phone', 'start': 2937.2, 'duration': 3.919}
-{'text': 'your bicycle the remote control of your', 'start': 2939.04, 'duration': 3.84}
-{'text': 'tv and so on they have certain', 'start': 2941.119, 'duration': 5.041}
-{'text': 'capabilities so if we type a string here', 'start': 2942.88, 'duration': 5.679}
-{'text': 'and then press dot we can see all the', 'start': 2946.16, 'duration': 4.56}
-{'text': 'functions or methods available in a', 'start': 2948.559, 'duration': 4.081}
-{'text': 'string object in python', 'start': 2950.72, 'duration': 4.32}
-{'text': 'now lists are also objects so they have', 'start': 2952.64, 'duration': 4.56}
-{'text': 'a bunch of methods for adding items or', 'start': 2955.04, 'duration': 4.24}
-{'text': 'removing them and so on let me show you', 'start': 2957.2, 'duration': 3.68}
-{'text': "so i'm going to declare", 'start': 2959.28, 'duration': 3.279}
-{'text': 'a list of numbers', 'start': 2960.88, 'duration': 4.88}
-{'text': "let's say 1 2 3 4 and 5.", 'start': 2962.559, 'duration': 5.121}
-{'text': 'now to add a new element at the end of', 'start': 2965.76, 'duration': 4.48}
-{'text': 'this list we can use the append method', 'start': 2967.68, 'duration': 4.08}
-{'text': 'so we type numbers', 'start': 2970.24, 'duration': 2.8}
-{'text': 'that append', 'start': 2971.76, 'duration': 3.76}
-{'text': 'and here we type 6.', 'start': 2973.04, 'duration': 6.079}
-{'text': "now let's print our list", 'start': 2975.52, 'duration': 6.319}
-{'text': "so here's our updated list beautiful", 'start': 2979.119, 'duration': 4.641}
-{'text': 'now what if you want to insert a number', 'start': 2981.839, 'duration': 3.441}
-{'text': 'somewhere in the middle or at the', 'start': 2983.76, 'duration': 2.64}
-{'text': 'beginning', 'start': 2985.28, 'duration': 3.92}
-{'text': 'for that we use the insert method', 'start': 2986.4, 'duration': 6.24}
-{'text': "so we're going to call the insert method", 'start': 2989.2, 'duration': 4.72}
-{'text': 'now on the top', 'start': 2992.64, 'duration': 2.959}
-{'text': 'go to the view menu', 'start': 2993.92, 'duration': 2.48}
-{'text': 'and', 'start': 2995.599, 'duration': 3.041}
-{'text': 'look at parameter info look at the', 'start': 2996.4, 'duration': 5.28}
-{'text': "shortcut on a mac computer it's command", 'start': 2998.64, 'duration': 3.919}
-{'text': 'and p', 'start': 3001.68, 'duration': 3.52}
-{'text': "on windows it's probably control and p", 'start': 3002.559, 'duration': 5.121}
-{'text': 'if we use this shortcut we can see the', 'start': 3005.2, 'duration': 5.04}
-{'text': 'values that this method expects', 'start': 3007.68, 'duration': 4.399}
-{'text': 'so the first value that this method', 'start': 3010.24, 'duration': 4.72}
-{'text': 'expects is an index value and the type', 'start': 3012.079, 'duration': 4.721}
-{'text': 'of this value is an integer', 'start': 3014.96, 'duration': 3.52}
-{'text': 'so if i want to insert a value at the', 'start': 3016.8, 'duration': 4.559}
-{'text': 'beginning of this list i should pass 0', 'start': 3018.48, 'duration': 5.44}
-{'text': 'as the index of the first element right', 'start': 3021.359, 'duration': 4.321}
-{'text': "so let's pass 0.", 'start': 3023.92, 'duration': 3.04}
-{'text': 'now', 'start': 3025.68, 'duration': 3.36}
-{'text': 'the second value is highlighted so the', 'start': 3026.96, 'duration': 4.48}
-{'text': 'second value is an object and the type', 'start': 3029.04, 'duration': 5.12}
-{'text': 'of this is t that basically means this', 'start': 3031.44, 'duration': 5.04}
-{'text': 'can be any type we can pass a number we', 'start': 3034.16, 'duration': 4.399}
-{'text': 'can pass a boolean we can pass a string', 'start': 3036.48, 'duration': 4.24}
-{'text': 'we can pass a list or any type of', 'start': 3038.559, 'duration': 3.681}
-{'text': 'objects in python', 'start': 3040.72, 'duration': 4.399}
-{'text': "so i'm going to pass negative 1. now", 'start': 3042.24, 'duration': 5.119}
-{'text': "let's run our program", 'start': 3045.119, 'duration': 4.24}
-{'text': 'you can see negative 1 appeared at the', 'start': 3047.359, 'duration': 3.601}
-{'text': 'beginning of our list', 'start': 3049.359, 'duration': 3.601}
-{'text': 'we also have a method for removing items', 'start': 3050.96, 'duration': 4.24}
-{'text': "so let's call", 'start': 3052.96, 'duration': 3.68}
-{'text': 'remove', 'start': 3055.2, 'duration': 2.639}
-{'text': 'three', 'start': 3056.64, 'duration': 2.8}
-{'text': "let's run the program", 'start': 3057.839, 'duration': 3.841}
-{'text': 'three is gone we only have one two four', 'start': 3059.44, 'duration': 3.36}
-{'text': 'and five', 'start': 3061.68, 'duration': 2.72}
-{'text': 'now if you wanna remove all the items in', 'start': 3062.8, 'duration': 4.319}
-{'text': 'the list we call the clear method so', 'start': 3064.4, 'duration': 4.56}
-{'text': 'clear', 'start': 3067.119, 'duration': 4.401}
-{'text': "this method doesn't expect any values", 'start': 3068.96, 'duration': 4.639}
-{'text': "so let's run our program our list is", 'start': 3071.52, 'duration': 3.039}
-{'text': 'empty', 'start': 3073.599, 'duration': 2.401}
-{'text': 'now sometimes you want to know if a', 'start': 3074.559, 'duration': 4.161}
-{'text': 'given item exists in our list or not to', 'start': 3076.0, 'duration': 5.68}
-{'text': 'do that we use the in operator so', 'start': 3078.72, 'duration': 5.2}
-{'text': "let's remove this line", 'start': 3081.68, 'duration': 4.32}
-{'text': "instead of printing our numbers list i'm", 'start': 3083.92, 'duration': 4.24}
-{'text': 'going to print an expression', 'start': 3086.0, 'duration': 3.2}
-{'text': 'one', 'start': 3088.16, 'duration': 1.84}
-{'text': 'in', 'start': 3089.2, 'duration': 1.919}
-{'text': 'numbers', 'start': 3090.0, 'duration': 3.04}
-{'text': "so here we're using the in operator", 'start': 3091.119, 'duration': 4.401}
-{'text': "we're checking to see if one is in the", 'start': 3093.04, 'duration': 4.48}
-{'text': 'numbers list so this is a boolean', 'start': 3095.52, 'duration': 4.88}
-{'text': 'expression it returns a boolean value', 'start': 3097.52, 'duration': 4.24}
-{'text': 'take a look', 'start': 3100.4, 'duration': 2.959}
-{'text': 'so we get true', 'start': 3101.76, 'duration': 3.92}
-{'text': 'obviously if we search for a value that', 'start': 3103.359, 'duration': 4.0}
-{'text': "doesn't exist in this list", 'start': 3105.68, 'duration': 2.879}
-{'text': 'like 10', 'start': 3107.359, 'duration': 3.521}
-{'text': 'we get false okay', 'start': 3108.559, 'duration': 3.841}
-{'text': 'now finally there are times you want to', 'start': 3110.88, 'duration': 3.6}
-{'text': 'know how many items you have in the list', 'start': 3112.4, 'duration': 4.64}
-{'text': 'to do that you can use the built-in lend', 'start': 3114.48, 'duration': 3.52}
-{'text': 'function', 'start': 3117.04, 'duration': 3.279}
-{'text': "so let's print", 'start': 3118.0, 'duration': 5.52}
-{'text': 'len of numbers so len', 'start': 3120.319, 'duration': 4.961}
-{'text': 'is a built-in function just like the', 'start': 3123.52, 'duration': 3.52}
-{'text': "print function that is why it's", 'start': 3125.28, 'duration': 4.079}
-{'text': 'highlighted as purple it returns the', 'start': 3127.04, 'duration': 5.92}
-{'text': 'number of elements in a list take a look', 'start': 3129.359, 'duration': 7.881}
-{'text': 'so we have five elements in this list', 'start': 3132.96, 'duration': 4.28}
-{'text': 'when writing python programs there are', 'start': 3140.8, 'duration': 4.24}
-{'text': 'times you want to iterate over a list', 'start': 3142.96, 'duration': 4.56}
-{'text': 'and access each item individually let me', 'start': 3145.04, 'duration': 4.64}
-{'text': "show you so i'm going to declare", 'start': 3147.52, 'duration': 3.92}
-{'text': 'a list of numbers', 'start': 3149.68, 'duration': 4.159}
-{'text': 'one two three four five', 'start': 3151.44, 'duration': 5.2}
-{'text': 'now if we print this list', 'start': 3153.839, 'duration': 4.641}
-{'text': 'it comes out exactly like how we wrote', 'start': 3156.64, 'duration': 4.4}
-{'text': 'it using the square bracket notation but', 'start': 3158.48, 'duration': 4.32}
-{'text': 'what if we wanted to print each item on', 'start': 3161.04, 'duration': 4.319}
-{'text': 'a separate line that is where we use the', 'start': 3162.8, 'duration': 5.36}
-{'text': "for loop let me show you so we're not", 'start': 3165.359, 'duration': 4.641}
-{'text': 'going to print the entire list', 'start': 3168.16, 'duration': 3.919}
-{'text': "instead we're going to type 4", 'start': 3170.0, 'duration': 3.839}
-{'text': 'now we declare a variable which is', 'start': 3172.079, 'duration': 3.841}
-{'text': 'called a loop variable', 'start': 3173.839, 'duration': 3.601}
-{'text': "let's call it item", 'start': 3175.92, 'duration': 3.52}
-{'text': 'then we type in', 'start': 3177.44, 'duration': 3.119}
-{'text': 'numbers', 'start': 3179.44, 'duration': 3.84}
-{'text': 'next we add a colon to start a block of', 'start': 3180.559, 'duration': 5.76}
-{'text': 'code so this is what we call a for loop', 'start': 3183.28, 'duration': 5.6}
-{'text': 'with this for loop we can iterate over', 'start': 3186.319, 'duration': 4.24}
-{'text': 'all the items in this list', 'start': 3188.88, 'duration': 4.56}
-{'text': 'in each iteration this item variable is', 'start': 3190.559, 'duration': 5.121}
-{'text': 'going to hold one value so in the first', 'start': 3193.44, 'duration': 4.72}
-{'text': 'iteration item is going to be equal to 1', 'start': 3195.68, 'duration': 3.919}
-{'text': 'and the second iteration is going to be', 'start': 3198.16, 'duration': 4.08}
-{'text': 'equal to 2 and so on so', 'start': 3199.599, 'duration': 5.52}
-{'text': 'now if we print item', 'start': 3202.24, 'duration': 4.319}
-{'text': 'and run our program', 'start': 3205.119, 'duration': 3.44}
-{'text': 'we see each item on a new line', 'start': 3206.559, 'duration': 4.56}
-{'text': 'so this is how we use a for loop now we', 'start': 3208.559, 'duration': 4.56}
-{'text': 'could also achieve the same thing using', 'start': 3211.119, 'duration': 3.841}
-{'text': 'a while loop but our code would be a', 'start': 3213.119, 'duration': 4.641}
-{'text': 'little bit longer let me show you so', 'start': 3214.96, 'duration': 4.72}
-{'text': 'we would have to start by declaring a', 'start': 3217.76, 'duration': 4.319}
-{'text': 'loop variable outside of our while loop', 'start': 3219.68, 'duration': 5.2}
-{'text': "let's say i we set it to zero", 'start': 3222.079, 'duration': 5.841}
-{'text': 'now we say while i is less than', 'start': 3224.88, 'duration': 4.8}
-{'text': 'here we need to find out how many items', 'start': 3227.92, 'duration': 3.199}
-{'text': 'we have in this list', 'start': 3229.68, 'duration': 3.439}
-{'text': 'so we use the len function', 'start': 3231.119, 'duration': 3.72}
-{'text': 'len of', 'start': 3233.119, 'duration': 4.881}
-{'text': 'numbers as long as i is less than the', 'start': 3234.839, 'duration': 4.841}
-{'text': 'length of the list', 'start': 3238.0, 'duration': 2.8}
-{'text': 'print', 'start': 3239.68, 'duration': 2.56}
-{'text': 'now we can use the square bracket', 'start': 3240.8, 'duration': 4.08}
-{'text': 'notation to get the element at this', 'start': 3242.24, 'duration': 4.64}
-{'text': 'index so', 'start': 3244.88, 'duration': 3.959}
-{'text': 'numbers of', 'start': 3246.88, 'duration': 6.4}
-{'text': 'i now we need to increment i by one so i', 'start': 3248.839, 'duration': 6.681}
-{'text': 'equals i plus one', 'start': 3253.28, 'duration': 3.6}
-{'text': "let's run the program and see what we", 'start': 3255.52, 'duration': 3.52}
-{'text': 'get', 'start': 3256.88, 'duration': 2.16}
-{'text': 'so we get the numbers one to five these', 'start': 3259.359, 'duration': 4.401}
-{'text': 'are coming out from our for loop and', 'start': 3261.76, 'duration': 3.839}
-{'text': 'then we get the numbers one to five one', 'start': 3263.76, 'duration': 3.68}
-{'text': 'more time these are coming out from our', 'start': 3265.599, 'duration': 3.841}
-{'text': 'while loop now if you compare these two', 'start': 3267.44, 'duration': 4.159}
-{'text': 'approaches you can definitely see that', 'start': 3269.44, 'duration': 4.24}
-{'text': 'the implementation using the for loop is', 'start': 3271.599, 'duration': 4.24}
-{'text': 'shorter and easier to understand we', 'start': 3273.68, 'duration': 3.84}
-{'text': "don't have to use the square bracket", 'start': 3275.839, 'duration': 3.841}
-{'text': "notation we don't have to call the len", 'start': 3277.52, 'duration': 4.079}
-{'text': "function we don't have to declare a", 'start': 3279.68, 'duration': 4.0}
-{'text': 'variable a loop variable and then', 'start': 3281.599, 'duration': 4.161}
-{'text': 'increment it explicitly', 'start': 3283.68, 'duration': 4.72}
-{'text': 'so with the for loop in each iteration', 'start': 3285.76, 'duration': 4.319}
-{'text': 'the item variable will automatically', 'start': 3288.4, 'duration': 5.84}
-{'text': 'hold one value in this list', 'start': 3290.079, 'duration': 4.161}
-{'text': "in this tutorial we're going to talk", 'start': 3298.799, 'duration': 3.76}
-{'text': 'about the range function in python we', 'start': 3300.16, 'duration': 4.56}
-{'text': 'use the range function to generate a', 'start': 3302.559, 'duration': 4.56}
-{'text': 'sequence of numbers let me show you so', 'start': 3304.72, 'duration': 4.0}
-{'text': 'you type range', 'start': 3307.119, 'duration': 3.361}
-{'text': 'this is a built-in function just like', 'start': 3308.72, 'duration': 4.0}
-{'text': 'the print and input functions here we', 'start': 3310.48, 'duration': 4.56}
-{'text': 'can pass a value like 5 and this will', 'start': 3312.72, 'duration': 4.639}
-{'text': 'return a range object', 'start': 3315.04, 'duration': 4.319}
-{'text': 'a range object is an object that can', 'start': 3317.359, 'duration': 4.24}
-{'text': 'store a sequence of numbers let me show', 'start': 3319.359, 'duration': 3.76}
-{'text': 'you so', 'start': 3321.599, 'duration': 3.52}
-{'text': "let's call that numbers", 'start': 3323.119, 'duration': 3.921}
-{'text': 'so this is a range object', 'start': 3325.119, 'duration': 3.281}
-{'text': "in this object we're going to have the", 'start': 3327.04, 'duration': 5.279}
-{'text': 'numbers 0 to 5 but excluding 5.', 'start': 3328.4, 'duration': 6.48}
-{'text': 'now if we print', 'start': 3332.319, 'duration': 5.04}
-{'text': 'numbers', 'start': 3334.88, 'duration': 4.56}
-{'text': "we're going to see this message range of", 'start': 3337.359, 'duration': 4.321}
-{'text': 'zero to five not the actual numbers', 'start': 3339.44, 'duration': 3.359}
-{'text': 'because this is the default', 'start': 3341.68, 'duration': 3.84}
-{'text': 'representation of a range object to see', 'start': 3342.799, 'duration': 4.32}
-{'text': 'the actual numbers we need to iterate', 'start': 3345.52, 'duration': 4.4}
-{'text': 'over this range object using a for loop', 'start': 3347.119, 'duration': 4.48}
-{'text': 'in the last video you learned how to', 'start': 3349.92, 'duration': 4.0}
-{'text': 'iterate over a list using a for loop but', 'start': 3351.599, 'duration': 4.561}
-{'text': 'we can also iterate over a range object', 'start': 3353.92, 'duration': 4.159}
-{'text': 'using a for loop basically we can use', 'start': 3356.16, 'duration': 4.0}
-{'text': 'the for loop with any object that', 'start': 3358.079, 'duration': 4.801}
-{'text': 'represents a sequence of objects', 'start': 3360.16, 'duration': 5.199}
-{'text': 'so instead of printing numbers', 'start': 3362.88, 'duration': 4.16}
-{'text': "we're going to use a for loop", 'start': 3365.359, 'duration': 3.361}
-{'text': 'for number', 'start': 3367.04, 'duration': 4.559}
-{'text': 'in numbers colon', 'start': 3368.72, 'duration': 4.48}
-{'text': "we're going to print", 'start': 3371.599, 'duration': 3.441}
-{'text': 'number', 'start': 3373.2, 'duration': 3.84}
-{'text': 'take a look', 'start': 3375.04, 'duration': 4.96}
-{'text': 'now we see the numbers zero to four', 'start': 3377.04, 'duration': 4.48}
-{'text': 'so', 'start': 3380.0, 'duration': 2.88}
-{'text': 'range of five', 'start': 3381.52, 'duration': 3.36}
-{'text': 'generates a sequence of numbers starting', 'start': 3382.88, 'duration': 4.56}
-{'text': 'from zero up to the number we specify', 'start': 3384.88, 'duration': 3.36}
-{'text': 'here', 'start': 3387.44, 'duration': 3.359}
-{'text': 'now if we supply two values', 'start': 3388.24, 'duration': 3.68}
-{'text': 'the first value is going to be', 'start': 3390.799, 'duration': 3.52}
-{'text': 'considered the starting value', 'start': 3391.92, 'duration': 4.08}
-{'text': 'and the second value is going to be', 'start': 3394.319, 'duration': 3.52}
-{'text': "considered the ending value and it's", 'start': 3396.0, 'duration': 4.799}
-{'text': 'going to be excluded so range of 5 to 10', 'start': 3397.839, 'duration': 5.28}
-{'text': 'is going to generate the numbers 5 to 9.', 'start': 3400.799, 'duration': 4.401}
-{'text': 'take a look', 'start': 3403.119, 'duration': 3.601}
-{'text': 'there you go', 'start': 3405.2, 'duration': 4.159}
-{'text': 'now we can also supply a third value and', 'start': 3406.72, 'duration': 5.52}
-{'text': "that will be used as a step so let's say", 'start': 3409.359, 'duration': 4.48}
-{'text': 'instead of having a sequence of numbers', 'start': 3412.24, 'duration': 3.92}
-{'text': 'like five six seven eight nine we wanna', 'start': 3413.839, 'duration': 5.76}
-{'text': 'jump two numbers at a time so 5 7 9 and', 'start': 3416.16, 'duration': 7.199}
-{'text': 'so on so here we pass 2 as the step take', 'start': 3419.599, 'duration': 5.441}
-{'text': 'a look', 'start': 3423.359, 'duration': 6.72}
-{'text': 'so we get these odd numbers 5 7 and 9.', 'start': 3425.04, 'duration': 7.039}
-{'text': 'so this is the range function in python', 'start': 3430.079, 'duration': 3.76}
-{'text': 'like quite often you see the range', 'start': 3432.079, 'duration': 4.24}
-{'text': 'function used as part of a for loop', 'start': 3433.839, 'duration': 3.76}
-{'text': "because we don't really need to store", 'start': 3436.319, 'duration': 3.841}
-{'text': 'the result in a separate variable we can', 'start': 3437.599, 'duration': 5.121}
-{'text': 'call the range function right here where', 'start': 3440.16, 'duration': 4.639}
-{'text': 'we are using the numbers variable so we', 'start': 3442.72, 'duration': 4.96}
-{'text': 'can type range of five and this will', 'start': 3444.799, 'duration': 4.961}
-{'text': 'return a range object holding the', 'start': 3447.68, 'duration': 5.119}
-{'text': 'numbers zero to four take a look', 'start': 3449.76, 'duration': 4.16}
-{'text': 'there you go', 'start': 3452.799, 'duration': 2.641}
-{'text': "so we don't really need to store the", 'start': 3453.92, 'duration': 3.28}
-{'text': 'result in a separate variable like', 'start': 3455.44, 'duration': 4.08}
-{'text': 'numbers', 'start': 3457.2, 'duration': 4.879}
-{'text': 'there you go', 'start': 3459.52, 'duration': 2.559}
-{'text': "in this tutorial we're going to talk", 'start': 3467.44, 'duration': 3.76}
-{'text': 'about tuples in python tuples are kind', 'start': 3468.72, 'duration': 4.48}
-{'text': 'of like lists we use them to store a', 'start': 3471.2, 'duration': 4.32}
-{'text': 'sequence of objects but tuples are', 'start': 3473.2, 'duration': 4.48}
-{'text': 'immutable which means we cannot change', 'start': 3475.52, 'duration': 4.64}
-{'text': 'them once we create them let me show you', 'start': 3477.68, 'duration': 4.639}
-{'text': "so i'm going to start by defining a list", 'start': 3480.16, 'duration': 4.639}
-{'text': 'of numbers 1 2 3.', 'start': 3482.319, 'duration': 4.321}
-{'text': 'now we use square brackets to define a', 'start': 3484.799, 'duration': 2.8}
-{'text': 'list', 'start': 3486.64, 'duration': 4.0}
-{'text': 'and parenthesis to define a tuple so now', 'start': 3487.599, 'duration': 5.841}
-{'text': 'this numbers variable is storing a tuple', 'start': 3490.64, 'duration': 4.32}
-{'text': 'if we try', 'start': 3493.44, 'duration': 4.96}
-{'text': "to reassign let's say the first element", 'start': 3494.96, 'duration': 5.28}
-{'text': "we're going to get an error", 'start': 3498.4, 'duration': 4.159}
-{'text': 'topple object does not support item', 'start': 3500.24, 'duration': 4.72}
-{'text': 'assignment so this is what i meant by', 'start': 3502.559, 'duration': 4.24}
-{'text': "tuples are immutable they're", 'start': 3504.96, 'duration': 3.28}
-{'text': 'unchangeable', 'start': 3506.799, 'duration': 3.04}
-{'text': 'also', 'start': 3508.24, 'duration': 4.4}
-{'text': 'if you type numbers dot', 'start': 3509.839, 'duration': 4.96}
-{'text': "you don't see any methods like append", 'start': 3512.64, 'duration': 4.719}
-{'text': 'insert remove and so on we only have', 'start': 3514.799, 'duration': 4.401}
-{'text': 'count and index', 'start': 3517.359, 'duration': 3.681}
-{'text': 'count returns the number of occurrences', 'start': 3519.2, 'duration': 4.159}
-{'text': 'of an element for example', 'start': 3521.04, 'duration': 3.519}
-{'text': 'if we have', 'start': 3523.359, 'duration': 2.321}
-{'text': "let's say", 'start': 3524.559, 'duration': 2.961}
-{'text': 'two threes in this tuple', 'start': 3525.68, 'duration': 4.399}
-{'text': 'and call count of three this will return', 'start': 3527.52, 'duration': 3.599}
-{'text': '2.', 'start': 3530.079, 'duration': 3.681}
-{'text': 'the other method we have here is index', 'start': 3531.119, 'duration': 5.041}
-{'text': 'and this returns the index of the first', 'start': 3533.76, 'duration': 4.88}
-{'text': 'occurrence of the given element', 'start': 3536.16, 'duration': 3.199}
-{'text': 'now', 'start': 3538.64, 'duration': 2.159}
-{'text': 'these other methods you see here that', 'start': 3539.359, 'duration': 3.681}
-{'text': "start with an underscore they're called", 'start': 3540.799, 'duration': 4.721}
-{'text': "magic methods it's an advanced topic and", 'start': 3543.04, 'duration': 4.559}
-{'text': "i've covered it in detail in my complete", 'start': 3545.52, 'duration': 4.0}
-{'text': "python programming course if you're", 'start': 3547.599, 'duration': 3.841}
-{'text': 'interested the link is down below this', 'start': 3549.52, 'duration': 2.88}
-{'text': 'video', 'start': 3551.44, 'duration': 3.44}
-{'text': 'so tuples are immutable we cannot change', 'start': 3552.4, 'duration': 4.08}
-{'text': 'them once we create them', 'start': 3554.88, 'duration': 3.6}
-{'text': 'now practically speaking most of the', 'start': 3556.48, 'duration': 3.76}
-{'text': 'time you would be using lists but there', 'start': 3558.48, 'duration': 3.44}
-{'text': 'are times that once you create a list of', 'start': 3560.24, 'duration': 3.2}
-{'text': 'objects you want to make sure that', 'start': 3561.92, 'duration': 3.76}
-{'text': 'somewhere in your program you or someone', 'start': 3563.44, 'duration': 4.72}
-{'text': 'else is not going to accidentally modify', 'start': 3565.68, 'duration': 4.48}
-{'text': "that list if that's the case then you", 'start': 3568.16, 'duration': 5.28}
-{'text': 'should use a tuple', 'start': 3570.16, 'duration': 4.72}
-{'text': 'hey guys i just wanted to let you know', 'start': 3573.44, 'duration': 3.399}
-{'text': 'that i have an online coding school at', 'start': 3574.88, 'duration': 3.679}
-{'text': 'codewoodmarch.com where you can find', 'start': 3576.839, 'duration': 3.48}
-{'text': 'plenty of courses on web and mobile', 'start': 3578.559, 'duration': 3.28}
-{'text': 'development in fact i have a', 'start': 3580.319, 'duration': 3.681}
-{'text': 'comprehensive python course that teaches', 'start': 3581.839, 'duration': 3.681}
-{'text': 'you everything about python from the', 'start': 3584.0, 'duration': 3.76}
-{'text': 'basics to more advanced concepts so', 'start': 3585.52, 'duration': 3.92}
-{'text': 'after you watch this tutorial if you', 'start': 3587.76, 'duration': 3.039}
-{'text': 'want to learn more you may want to look', 'start': 3589.44, 'duration': 3.28}
-{'text': 'at my python course it comes with a 30', 'start': 3590.799, 'duration': 3.441}
-{'text': 'day money back guarantee and a', 'start': 3592.72, 'duration': 3.2}
-{'text': 'certificate of completion you can add to', 'start': 3594.24, 'duration': 3.599}
-{'text': "your resume in case you're interested", 'start': 3595.92, 'duration': 5.52}
-{'text': 'the link is below this video', 'start': 3597.839, 'duration': 6.601}
-{'text': 'hey', 'start': 3601.44, 'duration': 3.0}
+in this python tutorial you're going to
+learn everything you need to know to
+start programming in python if you want
+to learn python programming for data
+science machine learning or web
+development this python tutorial is the
+perfect place to learn python you don't
+need any prior knowledge in python or
+programming in general i'm going to
+teach you everything from scratch i'm
+mosh hamadani and i've taught millions
+of people how to code through this
+channel if you're new here make sure to
+subscribe as i upload new videos every
+week now let's jump in and get started
+all right before we get started let me
+give you some ideas about what you can
+do with python that's a very common
+question python is a multi-purpose
+programming language so you can use it
+for a variety of different tasks you can
+use python for machine learning and ai
+in fact python is the number one
+language for machine learning and data
+science projects python is also very
+popular in web development using python
+and a framework called django you can
+build amazing websites here are five
+websites powered with python and django
+youtube instagram spotify dropbox and
+pinterest you can also use python in
+automation with python you can save your
+time and increase your productivity by
+automating repetitive tasks so why are
+you learning python are you learning it
+for automation for data science or web
+development let me know in the comment
+section below
+all right the first thing i want you to
+do is to head over to python.org to
+download the latest version of python so
+you go to downloads and select the
+latest version of python
+here in your downloads folder you should
+see this package simply double click it
+you're going to see this python
+installer if you're on windows you will
+see this checkbox over here add python
+to path make sure to check it it's
+really important otherwise you're not
+going to be able to follow this tutorial
+simply click on continue
+again
+one more time
+i agree with the terms
+and install the latest version of python
+now here you need to enter the username
+password of your computer
+so
+let's do that real quick
+next you need to install a code editor
+we use a code editor to write our code
+and execute it the most popular code
+editor for python is pycharm you can get
+it from jetbrains.com
+pycharm
+so on this page
+click on download
+you should see two different editions
+one is the professional edition which is
+commercial and we also have this
+community edition which is free and open
+source so we're going to download the
+community edition
+now in your downloads folder you should
+have this package let's double click it
+if you're on windows you're going to see
+an installation wizard so simply click
+on the next button until you install
+pycharm if you're on a mac you need to
+drag this pycharm and drop it onto the
+applications folder
+now
+let's open it
+the first time you open pycharm you have
+to configure a few settings we don't
+want to spend time on this so over here
+we're going to click on skip remaining
+and set defaults
+now let's create a new project
+over here we can specify the location
+and the name of our python project so
+let's append hello world to this path
+this is where our python project is
+going to be saved so let's click on
+create
+in this window you can see the content
+of our project so here's our hello world
+project currently we have only one
+folder inside this project that is vn
+which is short for virtual environment
+we'll talk about virtual environments in
+the future so currently we don't have
+any python files inside this project a
+real application can consist of tens or
+hundreds or even thousands of python
+files so let's right click on the
+project name
+and go to new python file we're going to
+call this file up
+now we can collapse this project window
+by clicking on this icon so now we have
+more space let's write our first python
+code we're going to write print all in
+lowercase then add parentheses
+then add quotes either single quotes or
+double quotes
+and inside this code we're going to
+write hello world
+so this is what we call a string a
+string means a string or sequence of
+characters in simple words that means
+textual data so in python and in many
+other programming languages whenever
+we're dealing with textual data we
+should always surround our text with
+quotes
+in python we can use single or double
+quotes
+now this print you see here is a
+function built into python and we can
+use it to print a message on our
+application window so let me show you
+how to run this code
+on the top we go to the run menu and
+then select run
+note that there is a shortcut associated
+with this command i always use shortcuts
+because they increase my productivity so
+let's click on this
+now select app
+and over here
+you can see this little window this is
+what we call the terminal window and it
+shows the output of our program
+so here's the hello world message
+printed in the terminal window now as
+you learn more python you will learn how
+to build applications that have a
+graphical user interface that's an
+advanced topic so for now let's not
+worry about it
+alright now let's talk about variables
+we use variables to temporarily store
+data in a computer's memory for example
+we can store the price of a product or
+someone's name their email their age and
+so on let me show you so
+to declare a variable we start by typing
+a name for that variable let's say age
+then we add an equal sign
+and then we type a value let's say 20.
+so with this we're storing the number 20
+somewhere in our computer's memory and
+we're attaching this age as a label for
+that memory location so now we can read
+the value at this memory location and
+print it on the terminal so instead of
+printing hello world we want to print
+the value of the age variable
+so i'm going to delete what we have
+inside parenthesis
+and type age note that i'm not adding
+quotes because if i run this program
+we'll see the text h on the terminal we
+don't want that we want the value of the
+age variable so let's remove the quote
+and
+print the value of the age variable
+now here on the toolbar you can click on
+this play icon to run your program or
+you can use the shortcut that i showed
+you in the last video so the shortcut is
+over here on a mac that's ctrl shift and
+r
+so
+there you go
+now you can see the value of the age
+variable
+now we can also change the value of a
+variable for example on line 2
+we can set 8 to 30.
+now when we run our program
+we see 30. so as you can see our program
+gets executed from top to bottom
+so this is how we can declare and use a
+variable now let's look at a few more
+examples
+so i'm going to declare
+another variable called price
+and set it to 19.95
+so in python we can use numbers with a
+decimal point or
+whole numbers we can also declare a
+variable and assign it a string value so
+let's say first underline name so if you
+want to use multiple words in the name
+of a variable we should separate them
+using an underscore this makes our code
+more readable see what would happen if i
+didn't use this underline
+this is not easily readable so we always
+separate multiple words by an underscore
+now we set this to a string so we can
+use single quotes or
+double quotes let's say march
+we also have a special type of value
+called a boolean value which can be true
+or false that is like yes or no in
+english let me show you so i'm going to
+declare another variable called is
+online and set it to true
+we could also set it to false what we
+have here is called a boolean value
+now note that python is a case sensitive
+language so it's sensitive to lowercase
+and uppercase letters in this case if i
+use a lowercase f
+we can see an error over here because
+this is not recognized in python
+so false with a capital f is a special
+keyword in python that represents the
+boolean false value
+so this is how we can declare and use
+variables in python
+all right now here's a little exercise
+for you
+imagine we want to write a program for a
+hospital so we're going to check in a
+patient named john smith he's 20 years
+old and is a new patient i want you to
+declare a few variables to store these
+values use the comment box below to
+share your code with others
+in this tutorial i'm going to show you
+how to receive input from the user so in
+python we have another built-in function
+called input we use this to read a value
+from the terminal window let me show you
+so we add parenthesis
+then we type in a string here we can
+type a message like what is your name we
+had a question mark followed by a space
+you will see why we need this space in a
+second so let's run this program
+we get this message now we have to enter
+a value so we click over here
+now you can see that the carrot is
+separated from the question mark this is
+because of the white space that we added
+over here
+so now we have to type a value let's say
+john when we press enter
+this function will return the value that
+we entered in the terminal window so we
+can get that value and store it in a
+variable so let's declare a variable
+called name and set it to the return
+value of the input function
+now we can print a greeting message for
+this user so we use the print function
+we say hello
+we had a space
+now after the string we want to add the
+value of the name variable so we use a
+plus sign
+and then type name
+what we are doing here is called string
+concatenation so we're combining this
+string with another string
+now let's run our program and see what
+happens so what is your name
+mosh
+now
+we get this message hello mosh
+so this is how we can use the input
+function in python
+you'll learn about the three types of
+data in python we have numbers
+strings and booleans now there are times
+you want to convert the value of a
+variable from one type to another let me
+show you so we're going to use our input
+function
+to read the user's birth year so enter
+your birth here
+now this input function is going to
+return a value so we can store it in a
+variable called
+birth underline year
+okay
+now let's write code to calculate the
+age of this user so we write an
+expression like this currently we are in
+the year 2020 so 2020 minus
+birth year
+this expression or piece of code is
+going to produce a value so once again
+we can store that value in a variable
+let's call that variable age
+now let's print age
+on the terminal
+let's run our program and see what
+happens
+so
+my birth year is 1982.
+enter oops our program crashed so
+whenever you see this red message that
+indicates an error so this error
+occurred in this file
+that is our app.pi on line two
+right below that you can see the piece
+of code that generated this error
+so that is this expression 2020 minus
+birth year now below that you can see
+the type of error so here we have
+unsupported types for subtraction
+we have int
+and stir what are these well this end is
+short for integer and that represents a
+whole number in programming so
+2020 is an example of an integer
+now birth year is an example of a string
+because whenever we call the input
+function this function would return a
+value as a string even if we enter a
+number in other words when i entered
+1982 this input function returned a
+string with these characters 1982 so
+this string is different from the number
+1982 they're completely different types
+so in this case
+let me delete these lines
+the reason we got this error is that we
+try to subtract a string from an integer
+so our code looks like this
+1982
+now python doesn't know how to subtract
+a string from an integer
+so to solve this problem we need to
+convert this string to an integer
+now in python we have a bunch of
+built-in functions for converting the
+types of our variables so
+we have this end function
+we can pass our burst here to it
+and this will return the new numeric
+representation of the birth year
+so to solve this problem
+we need to replace
+the string
+with the end function
+so let's see what's going on here on the
+first line we call the input function
+this returns a string
+on the second line we pass the string to
+our end function the in function will
+return the numeric representation of the
+burst year
+then
+we subtract it from 2020 we get the age
+and store it in the age variable now
+let's run our program
+so
+1982
+and there you go i'm 38 years old
+so this is how the in function works now
+we also have another built-in function
+called float that is for converting a
+value to a floating point number a
+floating point number in python and
+other programming languages is a number
+with a decimal point so
+10 is an integer and 10.1 is a float
+so we have int we have float and we also
+have bool for converting a value to a
+boolean
+and finally we have stir for converting
+a value to a string so these are the
+built-in functions for converting the
+type of our variables
+now here's a little exercise for you i
+want you to write a basic calculator
+program so here we have to enter two
+numbers we can type a whole number or a
+number with a decimal point
+and then our program will print the sum
+of these two numbers
+so pause the video spend two minutes on
+this exercise and then see my solution
+all right first we're going to call our
+input function to read the first number
+we get the result and store it in a
+variable called first
+now let's declare
+another variable called second and read
+the second number
+now
+we calculate the sum
+so that is first plus second
+now let's see what happens when we print
+sum on the terminal
+so i enter 10 and 20
+but instead of 30 we get 10 20. this is
+because we're combining or concatenating
+two strings so
+as i told you before the input function
+returns a string so
+this line will be equivalent to first
+equals 10. we're dealing with a string
+not an integer
+similarly
+second is going to be
+20 as a string so when we combine two
+strings 10 plus 20 will get
+10 20 because we're dealing with textual
+data okay so to solve this problem
+we need to convert the values we read to
+their numeric representation so over
+here
+we're going to pass
+first to our int function
+and here as well
+now let's run our program
+so we enter 10 and 20 we get 30. what if
+we enter a floating point number so 10.1
+and 20.
+we got an error
+so to solve this problem
+we need to treat both these values as
+floats so instead of the in function
+we're going to use the float function
+now let's run our program one more time
+we enter a whole number and a floating
+point number so the result is correct
+now let's add a label over here so sum
+is
+plus sum
+let's run our program
+one more time 10 and 20.
+once again we got an error the error is
+saying that python can only concatenate
+strings not floats to strings
+so on line four we have a string we're
+concatenating this with a float because
+the result of this expression is a
+floating point number we're adding two
+floats so the result is a float as well
+so python doesn't know how to evaluate
+code like this
+it doesn't know how to concatenate a
+float
+to a string to solve this problem
+we need to convert sum to your string so
+this is where
+we use the stir function
+now let's run the program again so
+10 plus 20.1 and here's the result
+and one last thing
+in this example i'm calling the float
+function at the time we want to
+calculate the sum of these two numbers
+but this is not a requirement we can
+call the float function
+over here so this input function returns
+a string we can pass that string to our
+float function take a look so float
+parenthesis like this
+so the value that we're passing to the
+float function is the value that is
+returned from the input function
+similarly
+we call the float function over here
+now
+we can change this expression to first
+plus second that is another way to write
+this piece of code
+so type conversion is important in
+python and other programming languages
+there are times you need to convert the
+type of variable to a different type
+in this tutorial i'm going to show you a
+bunch of cool things you can do with
+strings in python so let's start by
+declaring a variable called course
+and set it to python for
+beginners
+now this string that we have over here
+is technically an object an object in
+python is like an object in the real
+world as a metaphor think of the remote
+control of your tv this remote control
+is an object and it has a bunch of
+capabilities it has a bunch of buttons
+for turning your tv on turning it off
+changing the volume and so on now in
+this program this course variable is
+storing a string object this string
+object has a bunch of capabilities so if
+we type
+course dot you can see all the
+capabilities available in a string
+object these are basically functions
+that you can call just like the print or
+input functions the difference is that
+the print and input functions are
+general purpose functions they don't
+belong to a particular object but the
+functions you see over here are specific
+to strings now more accurately we refer
+to these as methods so when a function
+is part of an object we refer to that
+function as a method
+so let's look at a few examples here we
+have a function or a method called upper
+and we use that to convert a string to
+uppercase so if we print
+course.upper
+and run this program they can see our
+course in uppercase
+pretty useful
+now what you need to understand here is
+that this upper method does not change
+our original string it will return a new
+string so right after this if we print
+course
+you can see that our course variable is
+not affected so the upper method returns
+a new string
+now similarly we have another method
+called lower for converting a string to
+lowercase we have a method called find
+to see if our string contains a
+character or a sequence of characters
+for example here we can pass
+y
+and this will return the index of the
+first occurrence of y in our string so
+in python the index of the first
+character in a string is 0. so here we
+have 0 1 2 3 4 and so on so when we run
+this program you're going to see one on
+the terminal because the index of y is
+1. take a look first i'm going to delete
+this line we don't need it anymore also
+let's do this line let's run the program
+there you go
+now as i told you before python is
+sensitive to lowercase and uppercase
+letters so if i pass an uppercase y here
+this find method returns negative 1
+because we don't have an uppercase y in
+this string we can also pass a sequence
+of characters for example 4. so this
+will return the index of the word 4.
+take a look
+so it's 7.
+now there are times we want to replace
+something in a string with something
+else
+to do that we use the replace method
+replace
+so we can replace 4
+with
+a string containing the number 4. take a
+look
+so python for beginners
+obviously
+if you look for a character or a
+sequence of characters that don't exist
+in our string nothing is going to happen
+for example if we try to replace x with
+4 obviously we don't have x here so
+nothing is going to happen
+also just like the upper method the
+replace method is not going to modify
+our original string so it's going to
+return a new string this is because
+strings in python and many other
+programming languages are immutable we
+cannot change them once we create them
+whenever we want to change your string
+we'll end up with a new string object in
+memory
+now one last thing i want to cover in
+this tutorial there are times you want
+to see if your string contains a
+character or a sequence of characters
+one way to do that is using the find
+method that we talked about so let's see
+if our string
+contains python
+now when we run this program
+that is the index of the first
+occurrence of the word python in our
+string now in python we can also use the
+in operator so we can write an
+expression like this
+we type a string
+python then we type in this is a special
+keyword in python this is what we call
+the in operator
+so after that we type the name of our
+variable
+so with this expression we're checking
+to see if we have python in course as
+you can see python code is very readable
+it's like plain english so when we run
+this program
+instead of seeing the index of the first
+occurrence of python we see a boolean
+value this is more desirable in a lot of
+cases
+next we're going to look at arithmetic
+operations
+in this tutorial i'm going to show you
+the arithmetic operators that we have in
+python these are the same arithmetic
+operators that we have in math for
+example we can add numbers we can
+subtract them multiply them and so on so
+let's print
+10 plus 3. let me run this program we
+have 13.
+so this is the addition operator we also
+have subtraction
+we have multiplication
+and division now technically we have two
+different types of division operators we
+have a division with one slash and
+another with two slashes let's look at
+the differences if you use a single
+slash
+we get a floating point number that is a
+number with a decimal point but if we
+use double slashes
+we get
+an integer a whole number we also have
+the modulus operator that is indicated
+by a percent sign and this returns the
+remainder of the division of ten by
+three so
+that is one and finally we have the
+exponent operator that is indicated by
+two asterisks so this is 10 to the power
+of three so when we run this we get a
+thousand
+now for all these operators that you saw
+we have an augmented assignment operator
+let me explain what it means so let's
+say we have a variable called x
+and we set it to 10.
+now we want to increment the value of x
+by 3. so we have to write code like this
+x
+equals x plus 3. when python executes
+this code it's going to evaluate this
+expression or this piece of code the
+result of this expression is 10 plus 3
+which is 13. then it will store 13 in
+the x
+now there is another way to achieve the
+same result using less code we can type
+x plus equal three
+what we have on line three is exactly
+identical to what we have on line two so
+what we have here is called the
+augmented assignment operator so we have
+this assignment operator but we have
+augmented or enhanced it
+now here we can also use
+subtraction to decrease the value of x
+by 3 we can use multiplication and so on
+so these are the arithmetic operators in
+python
+all right let me ask you a question i'm
+going to declare a variable called x and
+set it to 10 plus 3 times 2. what do you
+think is the result of this expression
+this is a basic math question that
+unfortunately a lot of people fail to
+answer
+the answer is 16. here's the reason in
+math we have this concept called
+operator precedence and that determines
+the order in which these operators are
+applied so multiplication and division
+have a higher order so this part of the
+expression gets evaluated first so 2
+times 3 is 6
+and then the result is added to 10. that
+is why the result of this expression is
+16. now in python operator precedence is
+exactly like math but we can always
+change it using parenthesis for example
+in this expression if you want 10 plus 3
+to be evaluated first we can wrap it in
+parenthesis
+so
+like this now when we execute this code
+we're going to see 26 because 10 plus 3
+is 13 and that divided by 2 is 26. let's
+verify this so print x
+and we get 26.
+so you learn about the arithmetic
+operators in python now in python we
+have another set of operators called
+comparison operators we use these
+operators to compare values let me show
+you so i'm going to declare a variable
+called x
+and set it to an expression like this 3
+is greater than 2. so what we have here
+this piece of code this expression is
+called a boolean expression because it
+produces a boolean value so in this case
+because 3 is greater than 2 the result
+of this expression is the boolean true
+so if we print x
+we get true on the terminal
+so here is the greater than operator we
+also have greater than or equal to we
+have less than we have less than or
+equal to
+here is the equality operator which is
+indicated by two equal signs do not
+confuse this with the assignment
+operator so here we're comparing three
+and two for equality so if we run our
+program
+we see false because 3
+does not equal to 2.
+so here's the equality operator we also
+have
+the not equality operator that is
+indicated by an exclamation mark
+followed by an equal sign
+so let's quickly recap
+here are the comparison operators we
+have in python greater than greater than
+or equal to less than less than or equal
+to
+equal and not equal
+these operators are extremely important
+in real python programs because quite
+often we have to compare values to
+evaluate certain conditions you're going
+to see that soon
+in python we have another set of
+operators called logical operators we
+use these operators to build complex
+rules and conditions let me show you so
+i'm going to declare a variable called
+price and set it to 25.
+now let's print
+a boolean expression like this
+price is greater than 10.
+now let's say we want to check to see if
+the price is between 10 and 30. this is
+where we use the logical and operator so
+we type and and right after that we type
+another boolean expression surprise less
+than 30. so with this and operator if
+both these boolean expressions return
+true the result of this entire
+expression will be true take a look so
+in this case we get true
+because the price is between 10 and 30
+dollars
+we also have
+the or operator
+with the or operator if at least one of
+these boolean expressions returns true
+then the result of this entire
+expression will be true
+to demonstrate this i'm going to change
+price to 5. let's see how python is
+going to execute this code so first it's
+going to look at this boolean expression
+is price greater than 10 no it's not so
+it will keep going
+then it will look at the second boolean
+expression is price less than 30 it sure
+is so the result of this entire
+expression will be true take a look
+there you go
+we also have the not operator which
+basically inverses any values that you
+give it let me show you so
+we're going to have one boolean
+expression price greater than 10. the
+result of this expression is false
+now if you apply the not operator
+this will inverse false to true so when
+we run the program we get true
+so let's quickly recap in python we have
+three logical operators we have logical
+and which returns true if both
+expressions return true
+we have logical or which returns true if
+at least one expression returns true and
+we have not which inverses any value
+that we give it
+in this tutorial we're going to talk
+about if statements in python we use if
+statements to make decisions in our
+programs for example we can declare a
+variable called temperature and
+depending on the value of this variable
+we can print different messages on the
+terminal let me show you
+so here's our temperature variable
+we set it to 35.
+now let's say if temperature is greater
+than 30 we want to print a message
+saying it's a hot day so we type if
+then we type a condition and this is
+where we use our comparison operators so
+we type temperature
+greater than 30.
+then so we add a colon and see what
+happens when i press enter now
+the character is indented and this
+represents a block of code so the code
+that we write over here will be executed
+if this condition is true otherwise it's
+not going to be executed let me show you
+so
+we're going to print
+it's a hot day
+and by the way note that here i've
+surrounded the string with double quotes
+because here we have a single quote as
+an apostrophe so i couldn't declare a
+string like this with single quotes if i
+typed it's a hot day
+look python gets confused because it
+thinks this single code represents the
+end of our string so it doesn't
+recognize the subsequent characters okay
+so that's why we use
+double quotes here
+so we can have an apostrophe in our
+string
+so it's a hot day
+now if i press enter again
+the carrot is indented so the code that
+right here will be part of our if block
+and it will get executed if this
+condition is true so here we can print
+a second message drink plenty of water
+now to terminate this block we press
+enter and then press shift and tab
+the carrot is no longer indented so the
+code that we write here will always get
+executed no matter what whether this
+condition is true or not
+now in c based programming languages
+like c plus c sharp java and javascript
+we present a block of code using curly
+braces so
+you start a block of code using a left
+brace
+and then end it using a right brace in
+python we don't have curly braces so we
+use indentation to represent a block of
+code okay
+so
+in this case
+these two lines are indented and that
+means they are part of this block of
+code
+now let's run the program and see what
+happens
+so we see these two messages because the
+temperature is greater than 30.
+now
+if i change the temperature to 25
+and run the program again we don't see
+anything okay
+now
+after this block let's print
+done
+because this code is not indented it
+will always get executed it's not part
+of our if block okay so take a look
+here's the down message
+now
+let's add a second condition so if
+temperature is not greater than 30 that
+means it's less than or equal to 30. so
+i'm gonna add a second condition so if
+the temperature is between 20 and 30 i
+want to print it's a nice day
+so here we type l if
+that is short for else if
+and here we type a second condition
+so temperature greater than 20.
+we add a colon press enter now we have a
+new block
+so here we can print
+it's a nice day
+so if this condition is true that means
+the temperature
+is greater than 20 and less than or
+equal to 30. now what we have here is
+called a comment that is why it's grayed
+out it's not real code it's just some
+note that we add to our program python
+is not going to execute this so whenever
+we type a pound sign what we have after
+is treated as a comment okay
+so
+if this condition is true then we're
+going to see this message on the
+terminal let's run our program and
+verify this
+there you go the temperature is 25
+that's why we see this message
+now we can have as many conditions as we
+want there are no limitations okay
+so let's add another condition
+l if
+temperature is greater than 10
+then
+we're going to print
+it's a bit cold
+now in this case if this condition is
+true that means the temperature is
+greater than 10
+and less than or equal to 20.
+now finally if the temperature is less
+than 10 let's print a message saying
+it's a cold day
+so
+here we type else then we add a colon
+and now we have a new block
+so this code will get executed if none
+of the above conditions are true
+so here we can print
+it's called
+so this is how we use if statements to
+make decisions in our programs
+here's a great exercise for you to
+practice what you have learned so far i
+want you to write a weight converter
+program like this
+so this program is asking me my weight i
+enter 170.
+next it's asking me if the weight is in
+kilograms or pounds so i can type k for
+kilograms or l for pounds i can type a
+lowercase l or an uppercase l it doesn't
+matter so let's go with a lowercase l
+now it tells me weight in kilogram is
+76.5
+so go ahead and spend 5 minutes on this
+exercise you can use the comment box
+below to share your code with others and
+then when you're done come back see my
+solution
+so first we call our input function to
+ask the first question
+wait we get the result and store it in a
+variable called weight
+next we call the input function one more
+time to ask the second question
+is this in kilogram
+or
+pounds we get the result and store it in
+a variable called unit
+this is where we're going to use an if
+statement
+so
+we want to check to see if unit
+equals
+k
+then we should convert the weight to
+pounds and print it on a terminal
+however
+with this code if i type a lowercase k
+this condition is not going to be true
+because earlier i told you that python
+is a case sensitive language
+so
+we need to convert this string to
+uppercase earlier we talked about string
+methods so if we type dot we can see all
+the functions or methods available in a
+string object so we use the upper method
+and this returns a new string in case
+now if this condition is true first we
+need to convert the weight to pounds so
+we declare a new variable called
+converted
+get the weight and divide it by 0.45
+and then we can print this on a terminal
+so
+we say weight
+in pounds is
+then we append converted
+now to terminate this block we press
+shift and tab
+else colon
+so if this condition is not true that
+means the weight was entered in pounds
+so we need to convert it to kilograms
+once again we declare a variable
+converted and set it to weight times
+0.45
+and then we print
+weight in kilograms
+and here we concatenate
+this string with converter all right now
+we need to terminate this block so we
+press enter then shift and tab good
+now if we run this program we're going
+to see an error let me show you so let's
+run it
+here i'm going to enter 170
+then i type a lowercase l
+okay here's an error
+can't multiply sequence by non-end of
+type float so this is where we got this
+error when we try to multiply the weight
+by 0.45
+so
+that is line seven in our code now the
+reason this is happening is because the
+wait variable is storing a string object
+because earlier i told you the input
+function always returns a string so here
+we need to convert the weight
+to a number we can either use the end or
+the float function
+let's run the program one more time
+so
+170
+in pounds
+here's the second error can only
+concatenate string not float to string
+and that error occurred
+over here
+when we try to print the weight in
+kilograms so
+look at line seven
+in this case weight as an integer we are
+multiplying an integer by a float and
+the result of this operation is going to
+be a float
+now on line eight we are trying to
+concatenate or combine a string with a
+float and python doesn't know how to
+execute this code
+to solve this problem we need to convert
+this flow to a string so here we use the
+built-in stir function
+let's run the program and see what
+happens
+so
+170 in pounds and here's my weight in
+kilograms now let's try entering a
+weight in kilograms so run it one more
+time
+let's say 76
+kilos
+here we get a familiar error can only
+concatenate string to string not float
+so this error occurred on line five
+where we try to concatenate a string
+to a float so once again we need to
+convert this to a string object now
+let's run the program one more time
+76
+kilos
+is equal to 168 pounds
+hey guys i just wanted to let you know
+that i have an online coding school at
+codewoodmosh.com where you can find
+plenty of courses on web and mobile
+development in fact i have a
+comprehensive python course that teaches
+you everything about python from the
+basics to more advanced concepts so
+after you watch this tutorial if you
+want to learn more you may want to look
+at my python course it comes with a 30
+day money back guarantee and a
+certificate of completion you can add to
+your resume in case you're interested
+the link is below this video
+in this tutorial we're going to talk
+about while loops in python we use while
+loops to repeat a block of code multiple
+times for example let's say we want to
+print the numbers one to five a poor way
+of doing this is writing code like this
+print one then print two print 3
+print 4 and print 5.
+now why is this a bad approach well what
+if we wanted to print the numbers 1 to 1
+million we don't want to write 1 million
+lines of code each line printing a
+number this is where we use while loops
+so
+we'll start off by declaring a variable
+like i and set it to our initial number
+let's say one
+then we type while and here we type a
+condition so once again we can use our
+comparison operators
+let's say i less than 5 less than or
+equal to 5.
+as long as this condition is true then
+the code that we write inside of the
+while block will get executed so here we
+type a colon then press enter now we
+have a block of code
+in this block we can print i
+and then we need to increment i y one so
+we set i to i plus one if you don't do
+this i will always be one and this block
+of code
+will get executed indefinitely it will
+never terminate basically our program
+will continue running until it runs out
+of memory
+so
+in the first iteration i is 1 is less
+than 5 so python is going to execute
+this block of code it will print 1 on
+the terminal and then i becomes 2.
+then the control moves back over here so
+python evaluates this condition
+2 is less than or equal to 5 so the
+condition is true and once again python
+is going to execute this block one more
+time in the second iteration we're going
+to see two on the terminal and then i
+will become three so this will continue
+until this condition is no longer true
+let me show you so
+let's run this program
+now we see the numbers one to five so
+this is the beauty of while loops
+i can easily change five
+to one
+thousand and by the way i'm separating
+these three digits using an underscore
+this makes my number more readable we
+don't have to add this but it just makes
+our code more readable
+so let's run the program
+now we see the numbers 1 to 1000. it's
+much easier than 1000 lines of code each
+printing a number okay now let me show
+you something really cool
+so i'm going to change this
+to 10.
+now instead of printing i i want to
+print an expression so i'm going to
+multiply i
+by a string an asterisk
+now you might be confused here because
+earlier i told you that in python we
+cannot concatenate a number to a string
+but here i'm using the multiplication
+operator well this is different we can
+multiply a number by a string and this
+will repeat that string based on the
+value of that number so if i is one
+we're gonna see one asterisk if i is
+five we're going to see five asterisks
+let me show you so when we run this
+program
+we see this triangle shape because in
+the first iteration i is one so we see
+one asterisk in every iteration i is
+incremented by one so we see one extra
+asterisk and finally in the last
+iteration i is 10 and we see 10
+asterisks on the terminal
+so you have learned about three types of
+data in python we have numbers which can
+be integers or floats
+we have booleans and strings
+these are what we refer to as primitive
+or basic types in python now in python
+we have a bunch of complex types as well
+these complex types are very useful in
+building real applications
+in this tutorial we're going to talk
+about lists we use lists whenever we
+want to represent a list of objects like
+a list of numbers or a list of names let
+me show you
+so i'm going to declare a variable
+called names
+and set it to a list of names
+so here we add square brackets to
+represent a list and now we can add one
+or more objects inside this list in this
+list we add a bunch of names like john
+bob
+marsh
+sam
+and mary so we separate this element
+these items using a comma okay
+now
+let's print our list so print names
+take a look
+it comes out exactly like how we wrote
+it
+now we can also get individual elements
+in this list for example if we want to
+get the first element in this list here
+we type a pair of square brackets and
+inside the square brackets we type an
+index the index of the first element in
+this list is zero so now when we run
+this program we're going to see john on
+the terminal
+there you go
+now
+in python we can also use a negative
+index this is a feature that i
+personally have not seen in other
+programming languages
+so if 0 represents the first element in
+this list what do you think
+negative 1 represents it represents the
+last element in this list let's verify
+it so let's run the program and here's
+mary
+what about
+negative 2 well that represents the
+second element
+from the end of the list
+so let's run the program and here's some
+then we can also change an object at a
+given index for example let's say here
+we made a mistake and this john should
+not be spelled with an h
+so we need to reset it we type names of
+zero
+now we treat this like a regular
+variable so we set it to a new value
+we set it to john without an h now let's
+print our list
+and here's our updated list beautiful
+we can also select a range of values for
+example let's say we're only interested
+in the first three names
+so over here we type square brackets
+and here we need to type two indexes a
+start index and an end index
+our start index is a zero because we
+want to start from here
+and our end index is going to be zero
+one two plus one that's going to be
+three so we add a colon three so python
+is going to return all the elements from
+the start index up to the end index but
+excluding the end index so it's going to
+return the elements at index 0 1 and 2.
+take a look
+here are the first three names
+and by the way
+this expression does not modify our
+original list it returns a new list so
+right after this print statement if we
+print our original list
+you can see that it's not changed
+so this is how we use lists in python
+earlier i told you that strengths in
+python are objects objects in
+programming are kind of like objects in
+the real world like your mobile phone
+your bicycle the remote control of your
+tv and so on they have certain
+capabilities so if we type a string here
+and then press dot we can see all the
+functions or methods available in a
+string object in python
+now lists are also objects so they have
+a bunch of methods for adding items or
+removing them and so on let me show you
+so i'm going to declare
+a list of numbers
+let's say 1 2 3 4 and 5.
+now to add a new element at the end of
+this list we can use the append method
+so we type numbers
+that append
+and here we type 6.
+now let's print our list
+so here's our updated list beautiful
+now what if you want to insert a number
+somewhere in the middle or at the
+beginning
+for that we use the insert method
+so we're going to call the insert method
+now on the top
+go to the view menu
+and
+look at parameter info look at the
+shortcut on a mac computer it's command
+and p
+on windows it's probably control and p
+if we use this shortcut we can see the
+values that this method expects
+so the first value that this method
+expects is an index value and the type
+of this value is an integer
+so if i want to insert a value at the
+beginning of this list i should pass 0
+as the index of the first element right
+so let's pass 0.
+now
+the second value is highlighted so the
+second value is an object and the type
+of this is t that basically means this
+can be any type we can pass a number we
+can pass a boolean we can pass a string
+we can pass a list or any type of
+objects in python
+so i'm going to pass negative 1. now
+let's run our program
+you can see negative 1 appeared at the
+beginning of our list
+we also have a method for removing items
+so let's call
+remove
+three
+let's run the program
+three is gone we only have one two four
+and five
+now if you wanna remove all the items in
+the list we call the clear method so
+clear
+this method doesn't expect any values
+so let's run our program our list is
+empty
+now sometimes you want to know if a
+given item exists in our list or not to
+do that we use the in operator so
+let's remove this line
+instead of printing our numbers list i'm
+going to print an expression
+one
+in
+numbers
+so here we're using the in operator
+we're checking to see if one is in the
+numbers list so this is a boolean
+expression it returns a boolean value
+take a look
+so we get true
+obviously if we search for a value that
+doesn't exist in this list
+like 10
+we get false okay
+now finally there are times you want to
+know how many items you have in the list
+to do that you can use the built-in lend
+function
+so let's print
+len of numbers so len
+is a built-in function just like the
+print function that is why it's
+highlighted as purple it returns the
+number of elements in a list take a look
+so we have five elements in this list
+when writing python programs there are
+times you want to iterate over a list
+and access each item individually let me
+show you so i'm going to declare
+a list of numbers
+one two three four five
+now if we print this list
+it comes out exactly like how we wrote
+it using the square bracket notation but
+what if we wanted to print each item on
+a separate line that is where we use the
+for loop let me show you so we're not
+going to print the entire list
+instead we're going to type 4
+now we declare a variable which is
+called a loop variable
+let's call it item
+then we type in
+numbers
+next we add a colon to start a block of
+code so this is what we call a for loop
+with this for loop we can iterate over
+all the items in this list
+in each iteration this item variable is
+going to hold one value so in the first
+iteration item is going to be equal to 1
+and the second iteration is going to be
+equal to 2 and so on so
+now if we print item
+and run our program
+we see each item on a new line
+so this is how we use a for loop now we
+could also achieve the same thing using
+a while loop but our code would be a
+little bit longer let me show you so
+we would have to start by declaring a
+loop variable outside of our while loop
+let's say i we set it to zero
+now we say while i is less than
+here we need to find out how many items
+we have in this list
+so we use the len function
+len of
+numbers as long as i is less than the
+length of the list
+print
+now we can use the square bracket
+notation to get the element at this
+index so
+numbers of
+i now we need to increment i by one so i
+equals i plus one
+let's run the program and see what we
+get
+so we get the numbers one to five these
+are coming out from our for loop and
+then we get the numbers one to five one
+more time these are coming out from our
+while loop now if you compare these two
+approaches you can definitely see that
+the implementation using the for loop is
+shorter and easier to understand we
+don't have to use the square bracket
+notation we don't have to call the len
+function we don't have to declare a
+variable a loop variable and then
+increment it explicitly
+so with the for loop in each iteration
+the item variable will automatically
+hold one value in this list
+in this tutorial we're going to talk
+about the range function in python we
+use the range function to generate a
+sequence of numbers let me show you so
+you type range
+this is a built-in function just like
+the print and input functions here we
+can pass a value like 5 and this will
+return a range object
+a range object is an object that can
+store a sequence of numbers let me show
+you so
+let's call that numbers
+so this is a range object
+in this object we're going to have the
+numbers 0 to 5 but excluding 5.
+now if we print
+numbers
+we're going to see this message range of
+zero to five not the actual numbers
+because this is the default
+representation of a range object to see
+the actual numbers we need to iterate
+over this range object using a for loop
+in the last video you learned how to
+iterate over a list using a for loop but
+we can also iterate over a range object
+using a for loop basically we can use
+the for loop with any object that
+represents a sequence of objects
+so instead of printing numbers
+we're going to use a for loop
+for number
+in numbers colon
+we're going to print
+number
+take a look
+now we see the numbers zero to four
+so
+range of five
+generates a sequence of numbers starting
+from zero up to the number we specify
+here
+now if we supply two values
+the first value is going to be
+considered the starting value
+and the second value is going to be
+considered the ending value and it's
+going to be excluded so range of 5 to 10
+is going to generate the numbers 5 to 9.
+take a look
+there you go
+now we can also supply a third value and
+that will be used as a step so let's say
+instead of having a sequence of numbers
+like five six seven eight nine we wanna
+jump two numbers at a time so 5 7 9 and
+so on so here we pass 2 as the step take
+a look
+so we get these odd numbers 5 7 and 9.
+so this is the range function in python
+like quite often you see the range
+function used as part of a for loop
+because we don't really need to store
+the result in a separate variable we can
+call the range function right here where
+we are using the numbers variable so we
+can type range of five and this will
+return a range object holding the
+numbers zero to four take a look
+there you go
+so we don't really need to store the
+result in a separate variable like
+numbers
+there you go
+in this tutorial we're going to talk
+about tuples in python tuples are kind
+of like lists we use them to store a
+sequence of objects but tuples are
+immutable which means we cannot change
+them once we create them let me show you
+so i'm going to start by defining a list
+of numbers 1 2 3.
+now we use square brackets to define a
+list
+and parenthesis to define a tuple so now
+this numbers variable is storing a tuple
+if we try
+to reassign let's say the first element
+we're going to get an error
+topple object does not support item
+assignment so this is what i meant by
+tuples are immutable they're
+unchangeable
+also
+if you type numbers dot
+you don't see any methods like append
+insert remove and so on we only have
+count and index
+count returns the number of occurrences
+of an element for example
+if we have
+let's say
+two threes in this tuple
+and call count of three this will return
+2.
+the other method we have here is index
+and this returns the index of the first
+occurrence of the given element
+now
+these other methods you see here that
+start with an underscore they're called
+magic methods it's an advanced topic and
+i've covered it in detail in my complete
+python programming course if you're
+interested the link is down below this
+video
+so tuples are immutable we cannot change
+them once we create them
+now practically speaking most of the
+time you would be using lists but there
+are times that once you create a list of
+objects you want to make sure that
+somewhere in your program you or someone
+else is not going to accidentally modify
+that list if that's the case then you
+should use a tuple
+hey guys i just wanted to let you know
+that i have an online coding school at
+codewoodmarch.com where you can find
+plenty of courses on web and mobile
+development in fact i have a
+comprehensive python course that teaches
+you everything about python from the
+basics to more advanced concepts so
+after you watch this tutorial if you
+want to learn more you may want to look
+at my python course it comes with a 30
+day money back guarantee and a
+certificate of completion you can add to
+your resume in case you're interested
+the link is below this video
+hey
